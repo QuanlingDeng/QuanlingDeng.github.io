@@ -5,5 +5,5 @@ type: "Invited talk"
 permalink: /talks/AGH
 venue: "Computer science seminar, AGH University of Science and Technology"
 date: 2019-05-15
-location: "Krak\'ow, Poland"
+location: "Krakow, Poland"
 ---
