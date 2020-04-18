@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tntroduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Biography:
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics in August 2011 and graduated with a Ph.D. in mathematics at the University of Wyoming in May 2016. In October 2016, he joined Curtin University as a research associate at the Department of Applied Geology. He is a member of Curtin Institute for Computation and Curtin TIGeR. He is a co-chair for a thematic workshop at the International Conference on Computational Science (ICCS). He visited many universities and institutes such as École des Ponts ParisTech (ENPC), INRIA Paris, AGH University of Science and Technology, University of Minnesota, Texas A\&M University and North Carolina State University for research collaborations and projects. He is in his early academic career and has 19 peer-reviewed publications. His research focuses on numerical analysis, numerical methods for PDEs, scientific computing, and flow in porous media. His current research focuses on numerical spectral approximation and the development of high-order unconditionally stable time-integration schemes.
+
 
 A data-driven personal website
 ======
