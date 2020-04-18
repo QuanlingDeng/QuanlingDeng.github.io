@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Tntroduction"
+title: "A brief biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Biography:
+Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics in August 2011 and graduated with a Ph.D. in mathematics at the University of Wyoming in May 2016. In October 2016, he joined Curtin University as a research associate at the Department of Applied Geology. He became an affilated member of Curtin Institute for Computation and Curtin TIGeR. He joined the Department of Mathematics at the University of Wisconsin-Madison as a Van Vleck Visiting Assistant Professor position on March 12, 2020 (right before the university lockdown due to the COVID-19 pandemic).
 
-Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics in August 2011 and graduated with a Ph.D. in mathematics at the University of Wyoming in May 2016. In October 2016, he joined Curtin University as a research associate at the Department of Applied Geology. He is a member of Curtin Institute for Computation and Curtin TIGeR. He is a co-chair for a thematic workshop at the International Conference on Computational Science (ICCS). He visited many universities and institutes such as École des Ponts ParisTech (ENPC), INRIA Paris, AGH University of Science and Technology, University of Minnesota, Texas A\&M University and North Carolina State University for research collaborations and projects. He is in his early academic career and has 19 peer-reviewed publications. His research focuses on numerical analysis, numerical methods for PDEs, scientific computing, and flow in porous media. His current research focuses on numerical spectral approximation and the development of high-order unconditionally stable time-integration schemes.
 
 
 A data-driven personal website
