@@ -13,24 +13,7 @@ Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics
 # What am I doing recently?
 
 SeaIce-Atmosphere Modeling (SIAM)
-
-![as0](0416SeaIce.mp4)
-
-![as1](files/0416SeaIce.mp4)
-
-![as2](/../files/0416SeaIce.mp4)
-
-![as3](~/files/0416SeaIce.mp4)
-
-
-<video src="0416SeaIce.mp4" width="320" height="200" controls preload></video>
  
-<video src="/files/0416SeaIce.mp4" width="320" height="200" controls preload></video>
- 
-<video src="/../files/0416SeaIce.mp4" width="320" height="200" controls preload></video>
-  
-<video src="0416SeaIce.mp4" poster="poster.jpg" width="320" height="200" controls preload></video>
- 
-
+<video src="/files/0416SeaIce.mp4" width="640" height="400" controls preload></video>
 
 [UW-Madison personal webpage](https://www.math.wisc.edu/~qdeng37/)
