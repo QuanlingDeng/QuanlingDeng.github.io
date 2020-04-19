@@ -16,7 +16,7 @@ Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics
 
 <video src="/files/0416PotentialVorticityLowLat.mp4" width="640" height="400" controls preload></video>
 
-<video src="/files/0416PsiLowLat.mp4" width="640" height="400" controls preload></video>
+<!-- <video src="/files/0416PsiLowLat.mp4" width="640" height="400" controls preload></video> -->
 
 * Ocean-SeaIce-Atmosphere Modeling (OSIAM)
  
