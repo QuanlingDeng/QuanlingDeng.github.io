@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV]("/files/CV_Quanling Deng.pdf")"
 permalink: /cv/
 author_profile: true
 redirect_from:
