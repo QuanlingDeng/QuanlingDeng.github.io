@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A more detailed CV can be downloaded [here]("/files/CV_Quanling Deng.pdf").
+
 Education
 ======
 * Ph.D in Mathematics, University of Wyoming, Laramie, WY, USA, 2016
