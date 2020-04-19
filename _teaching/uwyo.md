@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/uwyo
 venue: "Department of Mathematics, University of Wyoming"
 date: 2011-08-23
