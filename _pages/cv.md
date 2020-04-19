@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A more detailed CV can be downloaded [here]("https://quanlingdeng.github.io/files/CV_Quanling%20Deng.pdf").
+A more detailed CV can be downloaded [here](https://quanlingdeng.github.io/files/CV_Quanling%20Deng.pdf).
 
 
 {% include base_path %}
