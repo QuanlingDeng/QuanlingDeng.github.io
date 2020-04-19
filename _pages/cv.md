@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+A more detailed CV can be downloaded [here](/files/CV_Quanling Deng.pdf).
 
-A more detailed CV can be downloaded [here]("/files/CV_Quanling Deng.pdf").
+
+{% include base_path %}
 
 Education
 ======
