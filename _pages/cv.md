@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV]("/files/CV_Quanling Deng.pdf")"
+title: "[CV]("https://quanlingdeng.github.io/files/CV_Quanling Deng.pdf")"
 permalink: /cv/
 author_profile: true
 redirect_from:
