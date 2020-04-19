@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2011
 * Ph.D in Mathematics, University of Wyoming, Laramie, WY, USA, 2016
+* B.S. in Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2011
 
 Work experience
 ======
