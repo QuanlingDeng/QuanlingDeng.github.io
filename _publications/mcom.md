@@ -8,4 +8,4 @@ venue: 'Mathematics of Computation'
 paperurl: 'https://www.ams.org/journals/mcom/2019-88-318/S0025-5718-2018-03405-6/'
 citation: ''
 ---
-This paper is about spectral approximation. Authors: Victor Calo, Matteo Cicuttin, Quanling Deng\*, and Alexandre Ern
+This paper is about spectral approximation. Authors: Victor Calo, Matteo Cicuttin, *Quanling Deng\**, and Alexandre Ern
