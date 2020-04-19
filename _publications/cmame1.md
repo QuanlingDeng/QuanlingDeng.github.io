@@ -1,4 +1,4 @@
-title: "Dispersion-optimized quadrature rules for isogeometric analysis: modified inner products, their dispersion properties, and optimally blended schemes"
+title: 'Dispersion-optimized quadrature rules for isogeometric analysis: modified inner products, their dispersion properties, and optimally blended schemes'
 collection: publications
 permalink: /publication/cmame1
 excerpt: 'This paper is about isogeometric spectral approximation'
