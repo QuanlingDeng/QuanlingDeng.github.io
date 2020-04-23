@@ -30,7 +30,7 @@ Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics
   
 * Ocean-SeaIce-Atmosphere Modeling (OSIAM)
 
-  - This following video shows the evolution of the sea ice floes when taking the atmosphere and ocean impact into consideration (the wind velocity is of scale 10m/s; the ocean velocity is of scale 1m/s; the simulation domain is 100kmX100km; the simulation final time is about 27 hours)
+  - This following video shows the evolution of the sea ice floes when taking the atmosphere and ocean impact into consideration (the wind velocity is of scale 10m/s; the ocean velocity is of scale 1m/s; the simulation domain is 100km x 100km; the simulation final time is about 27 hours)
  
     <video src="/files/0423osiam.mp4" width="640" height="400" controls preload></video>
   
