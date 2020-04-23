@@ -18,7 +18,7 @@ Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics
 
     <video src="/files/0423psilow.mp4" width="640" height="400" controls preload></video>
   
-  - This following video shows the evolution of the wind velocity field near the ocean
+  - This following video shows the evolution of the corresponding wind velocity field near the ocean
 
     <video src="/files/0423winds.mp4" width="640" height="400" controls preload></video>
 
