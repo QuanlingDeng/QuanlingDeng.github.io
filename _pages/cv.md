@@ -9,7 +9,7 @@ redirect_from:
 
 A more detailed CV can be downloaded [here](https://quanlingdeng.github.io/files/CV_Quanling%20Deng.pdf).
 
-<!---  B.S. in Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2011 ---!>
+<!---  B.S. in Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2011 --->
 
 {% include base_path %}
 
