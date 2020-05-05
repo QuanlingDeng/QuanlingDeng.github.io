@@ -15,6 +15,7 @@ A more detailed CV can be downloaded [here](https://quanlingdeng.github.io/files
 Education
 ======
 * Ph.D in Mathematics, University of Wyoming, Laramie, WY, USA, 2016
+
 <!--- * B.S. in Mathematics and Applied Mathematics, Hebei University of Technology, Tianjin, China, 2011 ---!>
 
 Work experience
