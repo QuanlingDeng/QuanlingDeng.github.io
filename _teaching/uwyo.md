@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/uwyo
 venue: "Department of Mathematics, University of Wyoming"
-date: 2011-08-23
+date: 2012-08-23
 location: "Laramie, WY, USA"
 ---
 
