@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics in August 2011 and graduated with a Ph.D. in mathematics at the University of Wyoming in May 2016. In October 2016, he joined Curtin University as a **research associate** at the Department of Applied Geology. He became an affilated member of Curtin Institute for Computation and Curtin TIGeR. He was a **visiting scholar** at INRIA (Paris France, 5-6/2019), AGH University of Science and Technology (Krakow Poland, 6-7/2018, 5/2019), École des Ponts ParisTech (ENPC, Paris France, 5-6/2017), and others. He joined the Department of Mathematics at the University of Wisconsin-Madison as a **Van Vleck visiting assistant professor**  on March 12, 2020 (right before the university lockdown due to the COVID-19 pandemic).
+Quanling Deng was born in Hunan, China. He moved to the USA to study mathematics in August 2011 and graduated with a Ph.D. in mathematics at the University of Wyoming in May 2016. In October 2016, he joined Curtin University as a **research associate** at the Department of Applied Geology. He became an affiliated member of Curtin Institute for Computation and Curtin TIGeR. He was a **visiting scholar** at INRIA (Paris France, 5-6/2019), AGH University of Science and Technology (Krakow Poland, 6-7/2018, 5/2019), École des Ponts ParisTech (ENPC, Paris France, 5-6/2017), and others. He joined the Department of Mathematics at the University of Wisconsin-Madison as a **Van Vleck visiting assistant professor**  on March 12, 2020 (right before the university lockdown due to the COVID-19 pandemic).
 
 
 # What am I doing recently?
