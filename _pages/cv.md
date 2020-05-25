@@ -15,7 +15,7 @@ A more detailed CV can be downloaded [here](https://quanlingdeng.github.io/files
 
 Education
 ======
-* Ph.D in Mathematics, University of Wyoming, Laramie, WY, USA, 2016
+* Ph.D. in Mathematics, University of Wyoming, Laramie, WY, USA, 2016
 
 Work experience
 ======
@@ -31,7 +31,7 @@ Work experience
   * Curtin Institute for Computation (CIC)
   * Curtin University
   
-* Feburary 2018 - March 2020: Affiliated Member
+* February 2018 - March 2020: Affiliated Member
   * Institute for Geoscience Research (TIGeR)
   * Curtin University
   
