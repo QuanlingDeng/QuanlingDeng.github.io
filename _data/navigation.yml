@@ -1,0 +1,19 @@
+docs_list_title: Deng's Computational Lab
+docs:
+
+- title: Home
+  url: about.html
+ 
+- title: People
+  url: people.html
+  
+- title: Projects
+  url: projects.html
+  
+- title: Publications
+  url: publications.html
+
+- title: News
+  url: news.html
+ 
+
