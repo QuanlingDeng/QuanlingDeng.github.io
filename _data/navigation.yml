@@ -2,7 +2,7 @@ docs_list_title: Deng's Computational Lab
 docs:
 
 - title: Home
-  url: about.html
+  url: index.html
  
 - title: People
   url: people.html
