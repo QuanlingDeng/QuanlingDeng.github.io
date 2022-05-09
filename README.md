@@ -1,4 +1,4 @@
-### Welcome to Deng's Computational Lab at ANU.
+### Welcome to Deng's Computational Lab at ANU!
 
 <!--
 **QuanlingDeng/QuanlingDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
