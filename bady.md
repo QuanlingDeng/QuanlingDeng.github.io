@@ -1,0 +1,5 @@
+---
+title: Badminton
+layout: default
+---
+
