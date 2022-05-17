@@ -78,7 +78,40 @@ layout: default
 </table> 
 
 
-(2) 
+(2) In general, when the domain of the model problem is irregular, the discontinuous Galerkin (DG) methods perform better than the standard FEMs. We develop hybrid high-order (HHO) DG method to approximate the spectra of the second-order elliptic operator on irregular domains. See below the HHO approximated eigenmodes on a circular and an L-shaped domain. See [this paper](https://www.ams.org/mcom/0000-000-00/S0025-5718-2018-03405-6/) for details.
+
+<table class="fixed">
+  <col width="200"/>
+  <col width="200"/>
+  <tr>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/circle_ef1.jpg" alt="" class="img-responsive"> 
+        </div>
+    </td>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/lshape_ef1.jpg" alt="" class="img-responsive"> 
+            </div>
+          </div>
+        </div>
+    </td>
+ </tr>
+ <tr>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/circle_ef7.jpg" alt="" class="img-responsive"> 
+        </div>
+    </td>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/lshape_ef3.jpg" alt="" class="img-responsive"> 
+            </div>
+          </div>
+        </div>
+    </td>
+ </tr>
+</table> 
 
 * * *
 
@@ -122,8 +155,28 @@ It is a challenging task to simulate the fluid flow through porous or poroelasti
 
 * * *
 
-**Superfloe parameterisation for sea ice dynamics**  
+**Superfloe parameterisation with data assimilation for sea ice dynamics**  
 
+The discrete element method (DEM) is providing a new modeling approach for describing sea ice dynamics. It exploits particle-based methods to characterize the physical quantities of each sea ice floe along its trajectory under Lagrangian coordinates. One major challenge in applying the DEM models is the heavy computational cost when the number of the floes becomes large. We develop an efficient Lagrangian parameterization algorithm to reduce the computational cost of simulating the DEM models while preserving the key features of the sea ice. The new parameterization takes advantage of a small number of artificial ice floes, named the superfloes, to effectively approximate a considerable number of the floes, where the parameterization scheme satisfies several important physics constraints. See below figures on the superfloe parameterisation. See [this paper](https://arxiv.org/abs/2105.13569) for details. 
+
+<table class="fixed">
+  <col width="200"/>
+  <col width="200"/>
+  <tr>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/floes.jpg" alt="" class="img-responsive"> 
+        </div>
+    </td>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/floesuper.jpg" alt="" class="img-responsive"> 
+            </div>
+          </div>
+        </div>
+    </td>
+ </tr>
+</table> 
 
 * * *
 
