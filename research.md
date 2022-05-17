@@ -18,7 +18,7 @@ layout: default
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
 
 
-## Several projects
+## Several research lines
 
 * * *
 **Development of FEM approximations**
@@ -178,7 +178,7 @@ The discrete element method (DEM) is providing a new modeling approach for descr
  </tr>
 </table> 
 
-* * *
+* * * *
 
 ## Research visits, talks, and other activities
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
