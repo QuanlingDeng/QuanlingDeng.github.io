@@ -3,13 +3,6 @@ title: Research
 layout: default
 ---
 
-[comment]: <> 
-(
-I am a computational mathematician working closely with computer scientists and engineers. 
-My research spans various areas in Computational Science such as Mathematical Modeling and Simulation, 
-Scientific Computing, and Numerical Analysis.
-In the following, I will briefly outline several ongoing research projects.
-)
 
 ## Soft Isogeometric Analysis (softIGA): Development and Application
 
