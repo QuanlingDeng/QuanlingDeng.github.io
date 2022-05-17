@@ -30,8 +30,7 @@ layout: default
     <td> 
         <div class="card" style="width: 12rem;">
           <!-- <a href="" title="" class="card-image hover-overlay" target="_blank"> -->
-          <img src="images/cv0.jpg" alt="" class="img-responsive">
-          </a>  
+          <img src="images/cv0.jpg" alt="" class="img-responsive"> 
           <div class="card-text">
             <p>Control volume</p>
             <!-- <h4><a href="" target="_blank">Quanling Deng</a></h4> -->
@@ -44,8 +43,7 @@ layout: default
     <td> 
         <div class="card" style="width: 12rem;">
           <!-- <a href="" title="" class="card-image hover-overlay" target="_blank"> -->
-          <img src="images/cv1.jpg" alt="" class="img-responsive">
-          </a>  
+          <img src="images/cv1.jpg" alt="" class="img-responsive"> 
           <div class="card-text">
             <p>Control volume</p>
             <!-- <h4><a href="" target="_blank">Quanling Deng</a></h4> -->
@@ -60,7 +58,7 @@ layout: default
 
 (2) Quadratic and higher-order FEMs suffer from high stiffness (large condition numbers) in their discretised systems. We propose to reduce the stiffness of the problem by subtracting a least-squares penalty on the gradient jumps across the mesh interfaces from the standard stiffness bilinear form. The two key advantages of softFEM over the standard Galerkin FEM are to improve the approximation of the eigenvalues in the upper part of the discrete spectrum and to reduce the condition number of the stiffness matrix. The resulting approximation technique is called softFEM since it reduces the stiffness of the problem. See below a figure which compares the quadratic softFEM with FEM on spectral and eigenstate errors. See [this paper](https://www.sciencedirect.com/science/article/pii/S0898122121003382) for details. 
 
-<div class="card" style="width: 12rem;">
+<div class="card" style="width: 20rem;">
 <img src="images/softfem.jpg" alt="" class="img-responsive">
 </div>
 
