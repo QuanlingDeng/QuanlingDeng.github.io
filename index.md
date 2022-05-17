@@ -21,3 +21,9 @@ Email:  Firstname.Lastname@anu.edu.au
 ## A brief bio ([CV here](https://quanlingdeng.github.io/deng.pdf))
 
 Quanling Deng was born in Hunan, China and moved to the USA to study mathematics in August 2011. He graduated with a Ph.D. in computational mathematics with a topic on finite element analysis at the University of Wyoming in May 2016. He then joined Curtin University in Australia as a research associate and mainly contributed to the development of isogeometric analysis. He was a short-term visiting scholar at INRIA Paris, AGH University of Science and Technology in Poland, École des Ponts ParisTech (ENPC), USTC, and others. In March 2020, he joined the Department of Mathematics at the University of Wisconsin-Madison as a Van Vleck visiting assistant professor and worked on modelling and prediction of Arctic sea-ice dynamics. He joined ANU in February 2022.
+
+* * *
+### Personal hobbies
+- [Badminton](https://quanlingdeng.github.io/)
+- [Hiking](https://quanlingdeng.github.io/)
+- [Poems](https://quanlingdeng.github.io/)
