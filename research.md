@@ -18,15 +18,16 @@ layout: default
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
 
 ## Several projects
-- Development of FEM approximations  
-  Flux local conservation 
-<table class="fixed">
-  <col width="200"/>
-  <col width="200"/>
-  <col width="200"/>
+
+**Development of FEM approximations**
+
+Flux local conservation 
+<table class="centered">
+  <col width="100"/>
+  <col width="100"/>
   <tr>
-    <td> <!-- Quanling Deng -->
-        <div class="card" style="width: 10rem;">
+    <td> 
+        <div class="card" style="width: 12rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/cv0.jpg" alt="" class="img-responsive">
           </a>  
@@ -39,8 +40,8 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Quanling Deng -->
-        <div class="card" style="width: 10rem;">
+    <td> 
+        <div class="card" style="width: 12rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/cv1.jpg" alt="" class="img-responsive">
           </a>  
@@ -57,13 +58,14 @@ layout: default
 </table> 
 
 
-- Spectral approximation with finite and isogeometric elements
+**Spectral approximation with finite and isogeometric elements**  
 
 
-- Multiphase flow simulations for flow in poros or poroelastic media
+**Multiphase flow simulations for flow in poros or poroelastic media**  
 
 
-- Superfloe parameterisation for sea ice dynamics
+**Superfloe parameterisation for sea ice dynamics**  
+
 
 
 ## Research visits, talks, and other activities
