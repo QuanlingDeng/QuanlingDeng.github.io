@@ -5,7 +5,7 @@ layout: default
 
 Some photos taken while hiking:
 
-<div class="card" style="width: 20rem;"> 
+<div class="card" style="width: 50rem;"> 
 <img src="figs/1.jpg" alt="" class="img-responsive"> 
 <img src="figs/2.jpg" alt="" class="img-responsive"> 
 <img src="figs/3.jpg" alt="" class="img-responsive"> 
