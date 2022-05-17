@@ -25,5 +25,4 @@ Some photos taken while hiking:
 <img src="figs/17.jpg" alt="" class="img-responsive">   
 <img src="figs/18.jpg" alt="" class="img-responsive"> 
 <img src="figs/19.jpg" alt="" class="img-responsive"> 
-<img src="figs/20.jpg" alt="" class="img-responsive"> 
 </div>
