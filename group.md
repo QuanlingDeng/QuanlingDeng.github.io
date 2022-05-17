@@ -15,7 +15,8 @@ layout: default
           <img src="images/QuanlingDeng.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Quanling Deng</a></h4>
+            <p>Quanling Deng</p>
+            <!-- <h4><a href="" target="_blank">Quanling Deng</a></h4> -->
             <div class="card-desription">
               <p>Group Leader</p>
             </div>
@@ -31,7 +32,8 @@ layout: default
           <img src="images/bg.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Danyang Li</a></h4>
+            <p>Danyang Li</p>
+            <!-- <h4><a href="" target="_blank">Danyang Li</a></h4> -->
             <div class="card-desription">
               <p>Master Student</p>
             </div>
