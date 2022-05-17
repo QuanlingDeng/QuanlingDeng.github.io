@@ -151,7 +151,7 @@ The discrete element method (DEM) is providing a new modeling approach for descr
 
 <table class="fixed">
   <col width="200"/>
-  <col width="200"/>
+  <col width="400"/>
   <tr>
     <td> 
         <div class="card" style="width: 20rem;">
