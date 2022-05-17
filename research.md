@@ -24,11 +24,11 @@ layout: default
 (1) A FEM approximated solution lacks the local conservation property on its fluxes. We proposed a simple and efficient postprocessing technique to recover the locally conservative fluxes on control volumes (FEM dual mesh elements). The technqiue solves an elemental Neumann-boundary value problem and it can be naturally implemented in a parallel environment. See [this paper](https://www.sciencedirect.com/science/article/pii/S0377042719301803) for details. 
 
 <table class="fixed">
-  <col width="300"/>
-  <col width="300"/>
+  <col width="200"/>
+  <col width="200"/>
   <tr>
     <td> 
-        <div class="card" style="width: 24rem;">
+        <div class="card" style="width: 18rem;">
           <img src="images/cv0.jpg" alt="" class="img-responsive"> 
         </div>
     </td>
