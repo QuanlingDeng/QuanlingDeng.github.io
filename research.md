@@ -46,6 +46,7 @@ layout: default
   
   
 (2) Quadratic and higher-order FEMs suffer from high stiffness (large condition numbers) in their discretised systems. We propose to reduce the stiffness of the problem by subtracting a least-squares penalty on the gradient jumps across the mesh interfaces from the standard stiffness bilinear form. The two key advantages of softFEM over the standard Galerkin FEM are to improve the approximation of the eigenvalues in the upper part of the discrete spectrum and to reduce the condition number of the stiffness matrix. The resulting approximation technique is called softFEM since it reduces the stiffness of the problem. See below a figure which compares the quadratic softFEM with FEM on spectral and eigenstate errors. See [this paper](https://www.sciencedirect.com/science/article/pii/S0898122121003382) for details. 
+
 <table class="fixed">
   <col width="600"/>
   <col width="300"/>
@@ -60,9 +61,10 @@ layout: default
 
 * * *
 
-**Spectral approximation with isogeometric elements**  
+**Spectral approximation with finite and isogeometric elements**  
 
-The spectral approximation by isogoemetric analysis has outliers (large eigenvalue errors) in the high-frequency region. We propose a boundary penalty technique to remove the outliers and consequently reduce the stiffness (condition numbers) of the discretised system; See [this paper](https://www.sciencedirect.com/science/article/pii/S0045782521002449) for details. 
+(1) The spectral approximation by isogoemetric analysis has outliers (large eigenvalue errors) in the high-frequency region. We propose a boundary penalty technique to remove the outliers and consequently reduce the stiffness (condition numbers) of the discretised system; See below a figure where the large spectral errors have been significantly reduced. See [this paper](https://www.sciencedirect.com/science/article/pii/S0045782521002449) for details. 
+
 <table class="fixed">
   <col width="600"/>
   <col width="300"/>
@@ -75,9 +77,48 @@ The spectral approximation by isogoemetric analysis has outliers (large eigenval
  </tr>
 </table> 
 
+
+(2) 
+
 * * *
 
-**Multiphase flow simulations for flow in poros or poroelastic media**  
+**Multiphase flow simulations for flow in porous or poroelastic media**  
+
+It is a challenging task to simulate the fluid flow through porous or poroelastic media. The main challenges are (1) complicated coupling between the Darcy fluid flow and the transport and (2) local conservative fluxes are required to maintain physical saturation (bounded from 0 to 1). We develop a simulation tool based on FEMs with our local conservation postprocessing technique. See below the left column for two-phase flow through porous media while the right column for flow through poroelastic media. See [this paper](https://link.springer.com/article/10.1007/s10915-017-0493-9) for porous media while [this paper](https://www.sciencedirect.com/science/article/pii/S0021999117304692) for poroelastic media.
+
+<table class="fixed">
+  <col width="200"/>
+  <col width="200"/>
+  <tr>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/tpfsat1.jpg" alt="" class="img-responsive"> 
+        </div>
+    </td>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/sat1.jpg" alt="" class="img-responsive"> 
+            </div>
+          </div>
+        </div>
+    </td>
+ </tr>
+ <tr>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/tpfsat2.jpg" alt="" class="img-responsive"> 
+        </div>
+    </td>
+    <td> 
+        <div class="card" style="width: 20rem;">
+          <img src="images/sat2.jpg" alt="" class="img-responsive"> 
+            </div>
+          </div>
+        </div>
+    </td>
+ </tr>
+</table> 
+  
 
 * * *
 
