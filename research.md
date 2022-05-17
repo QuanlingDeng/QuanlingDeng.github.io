@@ -3,8 +3,6 @@ title: Research
 layout: default
 ---
 
-I am a computational mathematician working closely with computer scientists and engineers. 
-
 ## Research interests
 - Mathematical modeling and simulation: fluid flow through poroelastic media, ocean and atmosphere dynamics, sea ice floe dynamics.
 
@@ -13,6 +11,8 @@ I am a computational mathematician working closely with computer scientists and 
 - Uncertainty quantification and data assimilation: stochastic models, Kalman filters, Ornstein-Uhlenbeck process.
 
 - Artificial intelligence and machine learning: particle swarm optimization, physics-informed neural networks, supervised learning.
+
+## Featured projects
 
 
 ## Soft Isogeometric Analysis (softIGA): Development and Application
