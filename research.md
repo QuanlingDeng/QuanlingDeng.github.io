@@ -17,8 +17,10 @@ layout: default
 - See [ResearchGate Profile](https://www.researchgate.net/profile/Quanling-Deng), or
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
 
+
 ## Several projects
 
+* * *
 **Development of FEM approximations**
 
 (1) A FEM approximated solution lacks the local conservation property on its fluxes. We propose a simple and efficient postprocessing technique to recover the locally conservative fluxes on control volumes (FEM dual mesh elements). The technqiue solves an elemental Neumann-boundary value problem and it can be naturally implemented in a parallel environment. See below figures for control volumes for rectangular and triangular elements. See [this paper](https://www.sciencedirect.com/science/article/pii/S0377042719301803) for details. 
@@ -56,7 +58,7 @@ layout: default
  </tr>
 </table> 
 
-
+* * *
 
 **Spectral approximation with isogeometric elements**  
 
@@ -73,12 +75,16 @@ The spectral approximation by isogoemetric analysis has outliers (large eigenval
  </tr>
 </table> 
 
+* * *
+
 **Multiphase flow simulations for flow in poros or poroelastic media**  
 
+* * *
 
 **Superfloe parameterisation for sea ice dynamics**  
 
 
+* * *
 
 ## Research visits, talks, and other activities
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
