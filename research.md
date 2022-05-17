@@ -123,7 +123,7 @@ It is a challenging task to simulate the fluid flow through porous or poroelasti
         </div>
     </td>
     <td> 
-        <div class="card" style="width: 20rem;">
+        <div class="card" style="width: 24rem;">
           <img src="images/sat1.jpg" alt="" class="img-responsive"> 
         </div>
     </td>
@@ -135,7 +135,7 @@ It is a challenging task to simulate the fluid flow through porous or poroelasti
         </div>
     </td>
     <td> 
-        <div class="card" style="width: 20rem;">
+        <div class="card" style="width: 24rem;">
           <img src="images/sat2.jpg" alt="" class="img-responsive"> 
         </div>
     </td>
@@ -159,7 +159,7 @@ The discrete element method (DEM) is providing a new modeling approach for descr
         </div>
     </td>
     <td> 
-        <div class="card" style="width: 20rem;">
+        <div class="card" style="width: 30rem;">
           <img src="images/floesuper.jpg" alt="" class="img-responsive"> 
         </div>
     </td>
