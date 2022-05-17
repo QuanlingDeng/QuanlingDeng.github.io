@@ -7,11 +7,11 @@ An English poem written in 2007:
 
 **I Am A Bird**
 
-I am a bird flying in the sky
-I can do nothing but go high
-Whenever there is a rain
-Wherever there is a pain
-I am always the bird not only go by
+I am a bird flying in the sky  
+I can do nothing but go high  
+Whenever there is a rain  
+Wherever there is a pain  
+I am always the bird not only go by  
 
 * * * 
 
