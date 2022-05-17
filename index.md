@@ -9,13 +9,19 @@ redirect_from:
 ---
 
 Quanling Deng
+
 Lecturer
+
 Computational Science
+
 School of Computing
+
 Australian National University
+
 Canberra, ACT, Australia 0200
 
 Office: [Hanna Neumann Blg (145)](https://www.anu.edu.au/maps#show=102872), Room 4.19
+
 Email:  Firstname.Lastname@anu.edu.au
 
 
