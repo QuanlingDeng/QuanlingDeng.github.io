@@ -3,6 +3,17 @@ title: Research
 layout: default
 ---
 
+I am a computational mathematician working closely with computer scientists and engineers. 
+
+## Research interests
+- Mathematical modeling and simulation: fluid flow through poroelastic media, ocean and atmosphere dynamics, sea ice floe dynamics.
+
+- Scientific computing and numerical analysis: parallel computing, preconditioners, post-processing, PDE numerical solvers such as FDM, FVM, FEM, IGA, DG, HHO, Runge--Kutta methods, and generalized-$\alpha$ methods, operator splitting schemes, dispersion and spectral analysis, a priori and a posteriori error analysis.
+
+- Uncertainty quantification and data assimilation: stochastic models, Kalman filters, Ornstein-Uhlenbeck process.
+
+- Artificial intelligence and machine learning: particle swarm optimization, physics-informed neural networks, supervised learning.
+
 
 ## Soft Isogeometric Analysis (softIGA): Development and Application
 
