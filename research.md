@@ -12,10 +12,10 @@ layout: default
 
 - Artificial intelligence and machine learning: particle swarm optimization, physics-informed neural networks, supervised learning.
 
-## Featured projects
+## Several projects
 
 
-## Soft Isogeometric Analysis (softIGA): Development and Application
+# Soft Isogeometric Analysis (softIGA): Development and Application
 
 Isogeometric analysis (IGA) is an advanced computational approach that integrates 
 finite element analysis (FEA) into computer-aided design (CAD) tools. 
@@ -32,7 +32,7 @@ In this project, we will also look into real-world applications such as structur
 
 ![Pro1](./images/pro1.png)
 
-## Deep learning based permeability characterisation in porous media
+# Deep learning based permeability characterisation in porous media
 
 It has been a well-known challenge to model and simulate of multiphase fluid flow through porous and poroelastic media. 
 Related projects are best known for their importance in oil recovery from petroleum reservoirs, 
@@ -63,7 +63,7 @@ transport property prediction from wavefield recordings, which have been elusive
 
 ![Pro2](./images/pro2.png)
 
-## Parallel computing and machine learning for Arctic sea ice dynamics simulations
+# Parallel computing and machine learning for Arctic sea ice dynamics simulations
 
 One major challenge in applying the DEM models to simulate Arctic sea ice dynamics is the heavy computational cost 
 when the number of the floes becomes large.
