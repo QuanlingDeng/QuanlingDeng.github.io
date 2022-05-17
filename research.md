@@ -18,12 +18,9 @@ layout: default
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
 
 ## Several projects
-- Development of FEM approximations: Flux local conservation 
-- -- as
-- -- bb
-- --- dsaf
-- ** asdf
-- ** ad
+- Development of FEM approximations  
+  Flux local conservation 
+
 - Multiphase flow simulations for flow in poros or poroelastic media
 - Spectral approximation with finite and isogeometric elements
 - Superfloe parameterisation for sea ice dynamics
