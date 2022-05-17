@@ -3,7 +3,7 @@ title: Teaching
 layout: default
 ---
 ## ANU:
-- COMP2610/COMP6261, [Information theory](https://programsandcourses.anu.edu.au/course/comp2610), Semester 2 (co-teaching with [Professor Thushara Abhayapala](https://cecs.anu.edu.au/people/thushara-abhayapala))
+- [COMP2610](https://programsandcourses.anu.edu.au/course/comp2610)/[COMP6261](https://programsandcourses.anu.edu.au/course/comp6261), Information theory, Semester 2 (co-teaching with [Professor Thushara Abhayapala](https://cecs.anu.edu.au/people/thushara-abhayapala))
 
 ## UW–Madison:
 - Linear Algebra and Differential Equations, Spring 2021
