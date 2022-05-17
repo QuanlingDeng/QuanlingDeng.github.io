@@ -1,5 +1,5 @@
 ---
-title: People
+title: Group
 layout: default
 ---
 
@@ -17,7 +17,23 @@ layout: default
           <div class="card-text">
             <h4><a href="" target="_blank">Quanling Deng</a></h4>
             <div class="card-desription">
-              <p>Lecturer, Australian National University</p>
+              <p>Group Leader</p>
+            </div>
+          </div>
+        </div>
+    </td>
+ </tr>
+  
+ <tr>
+    <td> <!-- Danyang Li -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/bg.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <h4><a href="" target="_blank">Quanling Deng</a></h4>
+            <div class="card-desription">
+              <p>Master Student</p>
             </div>
           </div>
         </div>
