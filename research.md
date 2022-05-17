@@ -194,18 +194,18 @@ The major difficulty of isogeometric or other finite-element-method-based analys
 We propose a new strategy for solving stiff ordinary differential equations (ODEs). We stabilize explicit schemes  in a constructive and repeatable manner. The key insight is to modify an explicit time marching scheme using Newmark's ideas and to use analysis to  discretely correct the algorithm to deliver stability. For example, we adopt the update rules from the Newmark method and apply an estimate (a constant) of the stiffness to discretely correct the forward-Euler scheme to obtain an unconditionally-stable method. The new scheme solves simultaneously for the ODE unknown and its first time-derivative.  In practice, we eliminate the time derivative and solve for the variable at the present time using the variable and its time derivate from the prior time. We then update the first time-derivative using the update rule from the Newmark method. The scheme inherits the auxiliary parameter $\beta$ from the Newmark-$\beta$ method and introduces an extra auxiliary scaling parameter $\eta$. We establish that the scheme is unconditionally-stable when $\beta>1$ and $\eta > (2\beta - 1)/\beta^2$. We also discuss a special case that delivers L-stability. The prototypical scheme is first-order accurate in time for both the ODE unknown and its first time-derivative. Using the same construction, we further correct the local truncation error of the forward Euler method to achieve a second-order scheme.  We analyze the stability and accuracy of this explicit second-order scheme. We demonstrate its accuracy and stability. Both methods have the  overall cost  of Heun's method (two-stage Runge-Kutta). See below the figure for spectra of the scheme.
 
 <table class="fixed">
-  <col width="200"/>
-  <col width="400"/>
+  <col width="600"/>
+  <col width="600"/>
   <tr>
     <td> 
-        <div class="card" style="width: 15rem;">
+        <div class="card" style="width: 40rem;">
           <img src="images/eigs3.jpg" alt="" class="img-responsive"> 
         </div>
     </td>
   </tr>
   <tr>
     <td> 
-        <div class="card" style="width: 30rem;">
+        <div class="card" style="width: 40rem;">
           <img src="images/eigs7.jpg" alt="" class="img-responsive"> 
         </div>
     </td>
