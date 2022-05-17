@@ -39,7 +39,6 @@ layout: default
           </div>
         </div>
     </td>
-    
     <td> <!-- Quanling Deng -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
@@ -54,7 +53,6 @@ layout: default
           </div>
         </div>
     </td>
-    
  </tr>
 </table> 
 
