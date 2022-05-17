@@ -28,12 +28,12 @@ layout: default
   <col width="200"/>
   <tr>
     <td> 
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 20rem;">
           <img src="images/cv0.jpg" alt="" class="img-responsive"> 
         </div>
     </td>
     <td> 
-        <div class="card" style="width: 24rem;">
+        <div class="card" style="width: 20rem;">
           <img src="images/cv1.jpg" alt="" class="img-responsive"> 
             </div>
           </div>
