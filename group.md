@@ -31,7 +31,7 @@ layout: default
           <img src="images/bg.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <h4><a href="" target="_blank">Quanling Deng</a></h4>
+            <h4><a href="" target="_blank">Danyang Li</a></h4>
             <div class="card-desription">
               <p>Master Student</p>
             </div>
