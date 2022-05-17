@@ -10,9 +10,9 @@ redirect_from:
 
 Quanling Deng  
 Lecturer  
-Computational Science  
-School of Computing  
-Australian National University  
+[Computational Science](https://comp.anu.edu.au/research/computational-science/)  
+[School of Computing](https://comp.anu.edu.au/)  
+[Australian National University](https://comp.anu.edu.au/)  
 Canberra, ACT, Australia 0200  
 Office: Room 4.19, [Hanna Neumann Blg (145)](https://www.anu.edu.au/maps#show=102872)  
 Email:  Firstname.Lastname@anu.edu.au
