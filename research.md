@@ -6,7 +6,7 @@ layout: default
 ## Research interests
 - Mathematical modeling and simulation: fluid flow through poroelastic media, ocean and atmosphere dynamics, sea ice floe dynamics.
 
-- Scientific computing and numerical analysis: parallel computing, preconditioners, post-processing, PDE numerical solvers such as FDM, FVM, FEM, IGA, DG, HHO, Runge--Kutta methods, and generalized-$\alpha$ methods, operator splitting schemes, dispersion and spectral analysis, a priori and a posteriori error analysis.
+- Scientific computing and numerical analysis: parallel computing, preconditioners, post-processing, PDE numerical solvers such as FDM, FVM, FEM, IGA, DG, HHO, Runge--Kutta methods, and generalized-alpha methods, operator splitting schemes, dispersion and spectral analysis, a priori and a posteriori error analysis.
 
 - Uncertainty quantification and data assimilation: stochastic models, Kalman filters, Ornstein-Uhlenbeck process.
 
@@ -18,7 +18,10 @@ layout: default
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
 
 ## Several projects
-
+- Local conservation on FEM approximations
+- Multiphase flow simulations for flow in poros or poroelastic media
+- Spectral approximation with finite and isogeometric elements
+- Superfloe parameterisation for sea ice dynamics
 
 ## Research visits, talks, and other activities
 - See [CV here](https://quanlingdeng.github.io/deng.pdf).
