@@ -37,8 +37,6 @@ layout: default
     <td> 
         <div class="card" style="width: 20rem;">
           <img src="images/cv1.jpg" alt="" class="img-responsive"> 
-            </div>
-          </div>
         </div>
     </td>
  </tr>
@@ -92,8 +90,6 @@ layout: default
     <td> 
         <div class="card" style="width: 20rem;">
           <img src="images/lshape_ef1.jpg" alt="" class="img-responsive"> 
-            </div>
-          </div>
         </div>
     </td>
  </tr>
@@ -106,8 +102,6 @@ layout: default
     <td> 
         <div class="card" style="width: 20rem;">
           <img src="images/lshape_ef3.jpg" alt="" class="img-responsive"> 
-            </div>
-          </div>
         </div>
     </td>
  </tr>
@@ -131,8 +125,6 @@ It is a challenging task to simulate the fluid flow through porous or poroelasti
     <td> 
         <div class="card" style="width: 20rem;">
           <img src="images/sat1.jpg" alt="" class="img-responsive"> 
-            </div>
-          </div>
         </div>
     </td>
  </tr>
@@ -145,8 +137,6 @@ It is a challenging task to simulate the fluid flow through porous or poroelasti
     <td> 
         <div class="card" style="width: 20rem;">
           <img src="images/sat2.jpg" alt="" class="img-responsive"> 
-            </div>
-          </div>
         </div>
     </td>
  </tr>
@@ -171,8 +161,6 @@ The discrete element method (DEM) is providing a new modeling approach for descr
     <td> 
         <div class="card" style="width: 20rem;">
           <img src="images/floesuper.jpg" alt="" class="img-responsive"> 
-            </div>
-          </div>
         </div>
     </td>
  </tr>
