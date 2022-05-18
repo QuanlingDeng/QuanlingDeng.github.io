@@ -7,13 +7,21 @@ An English poem written in 2007:
 
 
     
-**<p style="font-family: Calligraffitti; color:orange;"> I Am A Bird </p>**
+**I Am A Bird**
 
-<p style="font-family: Calligraffitti; color:orange;">I am a bird flying in the sky</p>  
-<p style="font-family: Calligraffitti; color:orange;">I can do nothing but go high</p>  
-<p style="font-family: Calligraffitti; color:orange;">Whenever there is a rain</p>  
-<p style="font-family: Calligraffitti; color:orange;">Wherever there is a pain</p>  
-<p style="font-family: Calligraffitti; color:orange;">I am always the bird not only go by</p>  
+<p style="font-family: Calligraffitti; color:orange;">
+    
+    I am a bird flying in the sky  
+    
+    I can do nothing but go high  
+    
+    Whenever there is a rain  
+    
+    Wherever there is a pain  
+    
+    I am always the bird not only go by  
+</p>
+
 
 
 
