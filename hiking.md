@@ -20,9 +20,10 @@ Some photos taken while hiking:
 <img src="figs/12.jpg" alt="" class="img-responsive">   
 <img src="figs/13.jpg" alt="" class="img-responsive">   
 <img src="figs/14.jpg" alt="" class="img-responsive">   
-<img src="figs/15.jpg" alt="" class="img-responsive">   
+<!-- <img src="figs/15.jpg" alt="" class="img-responsive"> -->  
 <img src="figs/16.jpg" alt="" class="img-responsive"> 
 <img src="figs/17.jpg" alt="" class="img-responsive">   
 <img src="figs/18.jpg" alt="" class="img-responsive"> 
 <img src="figs/19.jpg" alt="" class="img-responsive"> 
+<img src="figs/20.jpg" alt="" class="img-responsive"> 
 </div>
