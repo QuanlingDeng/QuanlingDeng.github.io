@@ -9,20 +9,12 @@ An English poem written in 2007:
     
 **I Am A Bird**
 
-<p style="font-family: Calligraffitti; color:orange;">
     
-    I am a bird flying in the sky  
-    
-    I can do nothing but go high  
-    
-    Whenever there is a rain  
-    
-    Wherever there is a pain  
-    
-    I am always the bird not only go by  
-</p>
-
-
+I am a bird flying in the sky  
+I can do nothing but go high  
+Whenever there is a rain  
+Wherever there is a pain  
+I am always the bird not only go by  
 
 
 * * * 
