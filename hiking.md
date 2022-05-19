@@ -9,7 +9,7 @@ Some photos taken while hiking:
 <img src="figs/1.jpg" alt="" class="img-responsive"> 
 <img src="figs/2.jpg" alt="" class="img-responsive"> 
 <img src="figs/3.jpg" alt="" class="img-responsive"> 
-<img src="figs/4.jpg" alt="" class="img-responsive"> 
+<!-- <img src="figs/4.jpg" alt="" class="img-responsive"> -->
 <img src="figs/5.jpg" alt="" class="img-responsive">   
 <img src="figs/6.jpg" alt="" class="img-responsive">   
 <img src="figs/7.jpg" alt="" class="img-responsive">   
