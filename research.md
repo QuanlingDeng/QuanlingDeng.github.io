@@ -166,6 +166,9 @@ The discrete element method (DEM) is providing a new modeling approach for descr
  </tr>
 </table> 
 
+See below a presentation on this topic.
+<iframe width="800" height="450" src="https://www.youtube.com/embed/U3MbUGe8xGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * * * *
 
 **Isogeometric analysis of a quantum three-body problem**  
