@@ -16,7 +16,7 @@ Fellows will be working across the schools of computer science, astronomy and as
   <col width="400"/>
   <tr>
     <td> <!-- Dan Andrews -->
-        <div class="card" style="width: 25rem;">
+        <div class="card" style="width: 22rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="DanAndrews.jpg" alt="" class="img-responsive">
           </a>  
@@ -30,7 +30,7 @@ Fellows will be working across the schools of computer science, astronomy and as
         </div>
     </td>
     <td> <!-- Dr Iona (Jo) Ciuca -->
-        <div class="card" style="width: 25rem;">
+        <div class="card" style="width: 22rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="JoCiuca.jpg" alt="" class="img-responsive">
           </a>  
@@ -46,7 +46,7 @@ Fellows will be working across the schools of computer science, astronomy and as
  </tr>
  <tr>
     <td> <!-- Dr Rhys Hawkins -->
-        <div class="card" style="width: 30rem;">
+        <div class="card" style="width: 22rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="RhysHawkins.jpg" alt="" class="img-responsive">
           </a>  
@@ -60,7 +60,7 @@ Fellows will be working across the schools of computer science, astronomy and as
         </div>
     </td>
      <td> <!-- Dr Brian Parker -->
-        <div class="card" style="width: 25rem;">
+        <div class="card" style="width: 22rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="BrianParker.jpg" alt="" class="img-responsive">
           </a>  
@@ -76,7 +76,7 @@ Fellows will be working across the schools of computer science, astronomy and as
  </tr>
  <tr>
     <td> <!-- Dr Michael McCullough -->
-        <div class="card" style="width: 25rem;">
+        <div class="card" style="width: 22rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="MichaelMcCullough.jpg" alt="" class="img-responsive">
           </a>  
