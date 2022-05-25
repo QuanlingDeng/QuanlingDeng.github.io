@@ -46,7 +46,7 @@ Fellows will be working across the schools of computer science, astronomy and as
  </tr>
  <tr>
     <td> <!-- Dr Rhys Hawkins -->
-        <div class="card" style="width: 10rem;">
+        <div class="card" style="width: 20rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="RhysHawkins.jpg" alt="" class="img-responsive">
           </a>  
@@ -60,7 +60,7 @@ Fellows will be working across the schools of computer science, astronomy and as
         </div>
     </td>
      <td> <!-- Dr Brian Parker -->
-        <div class="card" style="width: 10rem;">
+        <div class="card" style="width: 20rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="BrianParker.jpg" alt="" class="img-responsive">
           </a>  
