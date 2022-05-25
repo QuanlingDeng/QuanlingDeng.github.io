@@ -21,8 +21,7 @@ Fellows will be working across the schools of computer science, astronomy and as
           <img src="DanAndrews.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <p>Dr Dan Andrews</p>
-            <!-- <h4><a href="https://jcsmr.anu.edu.au/people/academics/dr-thomas-daniel-dan-andrews" target="_blank">Dr Dan Andrews</a></h4> -->
+            <h4><a href="https://jcsmr.anu.edu.au/people/academics/dr-thomas-daniel-dan-andrews" target="_blank">Dr Dan Andrews</a></h4>
             <div class="card-desription">
               <p>Partnering School: John Curtin School of Medical Research</p>
             </div>
@@ -35,8 +34,7 @@ Fellows will be working across the schools of computer science, astronomy and as
           <img src="JoCiuca.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <p>Dr Iona (Jo) Ciuca</p>
-            <!-- <h4><a href="https://comp.anu.edu.au/people/jo-ciuca" target="_blank">Dr Iona (Jo) Ciuca </a></h4> -->
+            <h4><a href="https://comp.anu.edu.au/people/jo-ciuca" target="_blank">Dr Iona (Jo) Ciuca </a></h4>
             <div class="card-desription">
               <p>Partnering school: Research School of Astronomy and Astrophysics</p>
             </div>
@@ -51,8 +49,7 @@ Fellows will be working across the schools of computer science, astronomy and as
           <img src="RhysHawkins.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <p>Dr Rhys Hawkins</p>
-            <!-- <h4><a href="https://comp.anu.edu.au/people/rhys-hawkins" target="_blank">Dr Rhys Hawkins</a></h4> -->
+            <h4><a href="https://comp.anu.edu.au/people/rhys-hawkins" target="_blank">Dr Rhys Hawkins</a></h4>
             <div class="card-desription">
               <p>Partnering School: Research School of Earth Sciences</p>
             </div>
@@ -65,8 +62,7 @@ Fellows will be working across the schools of computer science, astronomy and as
           <img src="BrianParker.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <p>Dr Brian Parker</p>
-            <!-- <h4><a href="" target="_blank">Dr Brian Parker</a></h4> -->
+            <h4><a href="" target="_blank">Dr Brian Parker</a></h4>
             <div class="card-desription">
               <p>Partnering School: Biological Data Science Institute</p>
             </div>
@@ -81,8 +77,7 @@ Fellows will be working across the schools of computer science, astronomy and as
           <img src="MichaelMcCullough.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <p>Dr Michael McCullough</p>
-            <!-- <h4><a href="" target="_blank">Dr Michael McCullough</a></h4> -->
+            <h4><a href="" target="_blank">Dr Michael McCullough</a></h4>
             <div class="card-desription">
               <p>Partnering School: Eccles Institute (John Curtin School of Medical Research)</p>
             </div>
