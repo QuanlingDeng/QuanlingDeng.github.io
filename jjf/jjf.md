@@ -3,7 +3,7 @@ title: Jubilee Joint Fellows
 layout: default
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwaHX23LhBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="660" height="365" src="https://www.youtube.com/embed/ZwaHX23LhBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Jubilee Joint Fellowship (JJF) celebrates 50 years of computer science teaching at ANU. Each Fellowship is a unique three-year appointment, engaging in interdisciplinary and multidisciplinary research at the forefront of computing, while addressing major challenges in science, health and society. 
 
