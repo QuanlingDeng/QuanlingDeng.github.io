@@ -3,7 +3,7 @@ title: Jubilee Joint Fellows
 layout: default
 ---
 
-<iframe width="660" height="365" src="https://www.youtube.com/embed/ZwaHX23LhBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ZwaHX23LhBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Jubilee Joint Fellowship (JJF) celebrates 50 years of computer science teaching at ANU. Each Fellowship is a unique three-year appointment, engaging in interdisciplinary and multidisciplinary research at the forefront of computing, while addressing major challenges in science, health and society. 
 
@@ -16,7 +16,7 @@ Fellows will be working across the schools of computer science, astronomy and as
   <col width="400"/>
   <tr>
     <td> <!-- Dan Andrews -->
-        <div class="card" style="width: 30rem;">
+        <div class="card" style="width: 25rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="DanAndrews.jpg" alt="" class="img-responsive">
           </a>  
@@ -30,7 +30,7 @@ Fellows will be working across the schools of computer science, astronomy and as
         </div>
     </td>
     <td> <!-- Dr Iona (Jo) Ciuca -->
-        <div class="card" style="width: 30rem;">
+        <div class="card" style="width: 25rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="JoCiuca.jpg" alt="" class="img-responsive">
           </a>  
@@ -60,7 +60,7 @@ Fellows will be working across the schools of computer science, astronomy and as
         </div>
     </td>
      <td> <!-- Dr Brian Parker -->
-        <div class="card" style="width: 30rem;">
+        <div class="card" style="width: 25rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="BrianParker.jpg" alt="" class="img-responsive">
           </a>  
@@ -76,7 +76,7 @@ Fellows will be working across the schools of computer science, astronomy and as
  </tr>
  <tr>
     <td> <!-- Dr Michael McCullough -->
-        <div class="card" style="width: 30rem;">
+        <div class="card" style="width: 25rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="MichaelMcCullough.jpg" alt="" class="img-responsive">
           </a>  
