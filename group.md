@@ -29,7 +29,7 @@ layout: default
     <td> <!-- Danyang Li -->
         <div class="card" style="width: 10rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/bg.jpg" alt="" class="img-responsive">
+          <img src="images/Li.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <p>Danyang Li</p>
