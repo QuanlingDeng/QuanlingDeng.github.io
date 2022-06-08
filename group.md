@@ -11,12 +11,12 @@ layout: default
   <tr>
     <td> <!-- Quanling Deng -->
         <div class="card" style="width: 10rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <a href="https://quanlingdeng.github.io/" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/QuanlingDeng.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
-            <p>Quanling Deng</p>
-            <!-- <h4><a href="" target="_blank">Quanling Deng</a></h4> -->
+            <!-- <p>Quanling Deng</p> --->
+            <h4><a href="https://quanlingdeng.github.io/" target="_blank">Quanling Deng</a></h4>
             <div class="card-desription">
               <p>Group Leader</p>
             </div>
