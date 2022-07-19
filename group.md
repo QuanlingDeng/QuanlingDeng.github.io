@@ -46,6 +46,8 @@ layout: default
           <p>Soft Isogeometric Analysis</p>
           
           <p>Neural Networks</p>
+          
+        </div>  
     </td>
  </tr>
  
