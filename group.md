@@ -10,7 +10,7 @@ layout: default
   <col width="200"/>
   <tr>
     <td> <!-- Quanling Deng -->
-        <div class="card" style="width: 10rem;">
+        <div class="card" style="width: 12rem;">
           <a href="https://quanlingdeng.github.io/" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/QuanlingDeng.jpg" alt="" class="img-responsive">
           </a>  
@@ -27,7 +27,7 @@ layout: default
   
  <tr>
     <td> <!-- Danyang Li -->
-        <div class="card" style="width: 10rem;">
+        <div class="card" style="width: 12rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/Li.jpg" alt="" class="img-responsive">
           </a>  
@@ -44,7 +44,7 @@ layout: default
  
   <tr>
     <td> <!-- Liam Harcombe -->
-        <div class="card" style="width: 10rem;">
+        <div class="card" style="width: 12rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/lh.jpg" alt="" class="img-responsive">
           </a>  
