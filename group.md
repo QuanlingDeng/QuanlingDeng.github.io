@@ -40,16 +40,6 @@ layout: default
           </div>
         </div>
     </td>
-   
-   <td> <!-- Danyang Li -->
-        <div class="card" style="width: 10rem;">
-          <p>Soft Isogeometric Analysis</p>
-        </div>  
-     
-       <div class="card" style="width: 10rem;">
-          <p>Neural Networks</p>
-        </div>  
-    </td>
  </tr>
  
   <tr>
