@@ -35,7 +35,7 @@ layout: default
             <p>Danyang Li</p>
             <!-- <h4><a href="" target="_blank">Danyang Li</a></h4> -->
             <div class="card-desription">
-              <p>Master Student</p>
+              <p>Master Student <br> SoftIGA, Neural Network </p>
             </div>
           </div>
         </div>
@@ -52,7 +52,7 @@ layout: default
             <p>Liam Harcombe</p>
             <!-- <h4><a href="" target="_blank">Liam Harcombe</a></h4> -->
             <div class="card-desription">
-              <p>PhB(Hons) Student</p>
+              <p>PhB(Hons) Student <br> Neural Network </p>
             </div>
           </div>
         </div>
