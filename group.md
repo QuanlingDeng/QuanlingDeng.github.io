@@ -41,4 +41,21 @@ layout: default
         </div>
     </td>
  </tr>
+ 
+  <tr>
+    <td> <!-- Liam Harcombe -->
+        <div class="card" style="width: 10rem;">
+          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <img src="images/lh.jpg" alt="" class="img-responsive">
+          </a>  
+          <div class="card-text">
+            <p>Liam Harcombe</p>
+            <!-- <h4><a href="" target="_blank">Liam Harcombe</a></h4> -->
+            <div class="card-desription">
+              <p>PhB(Hons) Student</p>
+            </div>
+          </div>
+        </div>
+    </td>
+ </tr> 
 </table> 
