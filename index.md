@@ -25,4 +25,5 @@ Quanling Deng was born in Hunan, China and moved to the USA to study mathematics
 * * *
 #### Personal hobbies
 - [Badminton](https://quanlingdeng.github.io/bady.html)
+- [ANU Fibonacci Trees](https://quanlingdeng.github.io/fibo.html)
 - [Hiking](https://quanlingdeng.github.io/hiking.html)
