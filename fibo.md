@@ -15,7 +15,7 @@ layout: default
 </div>
 
 * * *
-**Fibonaccialised trees:**
+**Fibonaccialised:**
 <div class="card" style="width: 50rem;"> 
 <img src="fibo/1f.jpg" alt="" class="img-responsive"> 
 <img src="fibo/2f.jpg" alt="" class="img-responsive"> 
