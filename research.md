@@ -169,6 +169,9 @@ The discrete element method (DEM) is providing a new modeling approach for descr
 See below a presentation on this topic.
 <iframe width="800" height="450" src="https://www.youtube.com/embed/U3MbUGe8xGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+A talked given at ANU MSI MACS: Superparameterisation of Arctic sea ice floes
+<iframe width="800" height="450" src="https://www.youtube.com/embed/2faQpkqomZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * * * *
 
 **Isogeometric analysis of a quantum three-body problem**  
