@@ -63,7 +63,7 @@ layout: default
             <p>Diwen Chen</p>
             <!-- <h4><a href="" target="_blank">Diwen Chen</a></h4> -->
             <div class="card-desription">
-              <p>Master Student <br> Sea ice, Neural Network </p>
+              <p>Master Student <br> Sea Ice, Neural Network </p>
             </div>
           </div>
         </div>
