@@ -26,7 +26,7 @@ layout: default
     <td> <!-- Diwen Chen -->
         <div class="card" style="width: 13.6rem;">
           <a href="" title="" class="card-image hover-overlay" target="_blank">
-          <img src="images/anu.jpg" alt="" class="img-responsive">
+          <img src="images/chen.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
             <p>Diwen Chen</p>
