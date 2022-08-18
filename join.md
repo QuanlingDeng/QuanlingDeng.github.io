@@ -58,23 +58,22 @@ Please follow the following guidlines and email me to express your interest.
 
 ### ANU
 - https://comp.anu.edu.au/education/03-research/
+
   Due 31/08/2022 for international students and 31/10/2022 for domestic students
 
 ### Non-ANU
 
-- For potential students
-
-ATSE Elevate Scholarship: https://www.atse.org.au/career-pathways/elevate/elevate-scholarship-guidelines/ . 
+- For potential students: ATSE Elevate Scholarship: https://www.atse.org.au/career-pathways/elevate/elevate-scholarship-guidelines/. 
 For female domestic students (Australian, New Zealand citizen and Australian PR)
 Due date for 2023 commencement is 30 Sep 2022.
 
 
-- For current students
+- For current students:
 
--- Nvidia https://www.nvidia.com/en-us/research/graduate-fellowships/ 
+** Nvidia https://www.nvidia.com/en-us/research/graduate-fellowships/ 
 Due 9 Sep 3pm PT, recommended to submit as soon as possible
 
--- Meta https://research.facebook.com/fellowship/
+** Meta https://research.facebook.com/fellowship/
 Due 20 Sep, not clear on the time zone, to be safe, I recommend using Canberra time zone
 
 
