@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<img align="right" width="100" height="100" src="images/deng.jpg">
+
 Quanling Deng  
 Lecturer  
 [Computational Science](https://comp.anu.edu.au/research/computational-science/)  
