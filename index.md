@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="100" height="100" src="images/deng.jpg">
+<img align="right" width="6000" height="4000" src="images/deng.jpg">
 
 Quanling Deng  
 Lecturer  
