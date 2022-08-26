@@ -11,7 +11,7 @@ layout: default
   <tr>
     <td> <!-- Quanling Deng -->
         <div class="card" style="width: 13.6rem;">
-          <a href="https://quanlingdeng.github.io/" title="" class="card-image hover-overlay" target="_blank">
+          <!-- a href="https://quanlingdeng.github.io/" title="" class="card-image hover-overlay" target="_blank" -->
           <img src="images/QuanlingDeng.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
@@ -25,7 +25,6 @@ layout: default
     </td>
     <td> <!-- Diwen Chen -->
         <div class="card" style="width: 13.6rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/chen.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
@@ -40,7 +39,7 @@ layout: default
  <tr>
     <td> <!-- Danyang Li -->
         <div class="card" style="width: 13.6rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
+          <!-- <a href="" title="" class="card-image hover-overlay" target="_blank"> -->
           <img src="images/Li.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
@@ -54,7 +53,6 @@ layout: default
     </td>
     <td> <!-- Boxuan Yang -->
         <div class="card" style="width: 13.6rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/anu.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
@@ -72,7 +70,6 @@ layout: default
   <tr>
     <td> <!-- Liam Harcombe -->
         <div class="card" style="width: 13.6rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/lh.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
@@ -86,7 +83,6 @@ layout: default
     </td>
     <td> <!-- Anousheh Moonen -->
         <div class="card" style="width: 13.6rem;">
-          <a href="" title="" class="card-image hover-overlay" target="_blank">
           <img src="images/anu.jpg" alt="" class="img-responsive">
           </a>  
           <div class="card-text">
