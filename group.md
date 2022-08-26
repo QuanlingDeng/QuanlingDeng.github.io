@@ -12,7 +12,7 @@ layout: default
     <td> <!-- Quanling Deng -->
         <div class="card" style="width: 13.6rem;">
           <!-- a href="https://quanlingdeng.github.io/" title="" class="card-image hover-overlay" target="_blank" -->
-          <img src="images/QuanlingDeng.jpg" alt="" class="img-responsive">
+          <img src="images/deng.jpg" alt="" class="img-responsive">
           <!-- </a>  -->
           <div class="card-text">
             <!-- <p>Quanling Deng</p> --->
