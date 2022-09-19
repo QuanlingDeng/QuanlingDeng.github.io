@@ -51,9 +51,22 @@ layout: default
           </div>
         </div>
     </td>
+   <td> <!-- Anousheh Moonen -->
+        <div class="card" style="width: 13.6rem;">
+          <img src="images/anu.jpg" alt="" class="img-responsive">
+          <!-- </a>   -->
+          <div class="card-text">
+            <p>Anousheh Moonen</p>
+            <!-- <h4><a href="" target="_blank">Anousheh Moonen</a></h4> -->
+            <div class="card-desription">
+              <p>PhB(Hons) Student <br> Neural Network, Inverse Problems </p>
+            </div>
+          </div>
+        </div>
+    </td>
  </tr>
- 
-  <tr>
+
+ <tr>
     <td> <!-- Liam Harcombe -->
         <div class="card" style="width: 13.6rem;">
           <img src="images/lh.jpg" alt="" class="img-responsive">
@@ -67,18 +80,6 @@ layout: default
           </div>
         </div>
     </td>
-    <td> <!-- Anousheh Moonen -->
-        <div class="card" style="width: 13.6rem;">
-          <img src="images/anu.jpg" alt="" class="img-responsive">
-          <!-- </a>   -->
-          <div class="card-text">
-            <p>Anousheh Moonen</p>
-            <!-- <h4><a href="" target="_blank">Anousheh Moonen</a></h4> -->
-            <div class="card-desription">
-              <p>PhB(Hons) Student <br> Neural Network, Inverse Problems </p>
-            </div>
-          </div>
-        </div>
-    </td>
+    
  </tr> 
 </table> 
