@@ -8,7 +8,7 @@ layout: default
 
 ### Quanling Deng
 
-* Group leader
+Group leader
 
 &nbsp;
 &nbsp;
