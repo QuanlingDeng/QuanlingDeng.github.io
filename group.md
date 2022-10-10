@@ -5,6 +5,7 @@ layout: default
 
 
 <img align="right" width="300" height="200" src="images/deng.jpg">
+
 ## Quanling Deng
 
 * Group leader
@@ -12,14 +13,15 @@ layout: default
 
 * * * 
 
-<img align="right" width="300" height="200" src="images/chen.jpg">
-
 ## Diwen Chen
 
 * Master Student
 
 - Antarctic sea ice
 - Neural Network (IceNet)
+
+<img align="right" width="300" height="200" src="images/chen.jpg">
+
 
 
 <table class="fixed">
