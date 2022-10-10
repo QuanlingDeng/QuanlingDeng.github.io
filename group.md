@@ -22,7 +22,7 @@ layout: default
 
 <img align="right" width="300" height="200" src="images/chen.jpg">
 
-
+* * * 
 
 <table class="fixed">
   <col width="200"/>
