@@ -1,3 +1,8 @@
+---
+title: Join
+layout: default
+---
+
 We are looking for highly motivated students (undergraduate, Honours, Masters, and PhD), who will work on research projects to develope the next generation of models and methods in the field of Computational and Applied Mathematics, broadly in Computational Science within the ANU School of Computing.
 There are a large number of potential directions and some of them are: development and application of advanced finite and isogeometric element analysis, machine learning based model solvers and simulators, modeling and superparameterization of sea-ice-ocean-atmosphere dynamics, and wave dispersion/disspation analysis. 
 
