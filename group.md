@@ -26,7 +26,7 @@ layout: default
 - Antarctic sea ice
 - Neural Network (IceNet)
 
-<img align="right" width="300" height="200" src="images/chen.jpg">
+<img align="right" width="200" height="200" src="images/chen.jpg">
 
 * * * 
 
