@@ -10,9 +10,9 @@
 
 * Our paper "SoftIGA: soft isogeometric analysis" (with Pouria Behnoudfar and Victor M. Calo) was accepted for publication in CMAME
 
-* Co-organized a minisymposium at the [WCCM-APCOM 2022](https://www.wccm2022.org/) which was held in Yokohama, Japan from July 31 - August 5, 2022, ````in a hybrid (physical and virtual) format````. The topic was on [Advanced HPC Methods for Eigenvalue Problems and Beyond](https://www.wccm2022.org/minisymposia1403.html).
+* Co-organized a minisymposium at the [WCCM-APCOM 2022](https://www.wccm2022.org/), held in Yokohama, Japan from July 31 - August 5, 2022, ````in a hybrid (physical and virtual) format````. The topic was on [Advanced HPC Methods for Eigenvalue Problems and Beyond](https://www.wccm2022.org/minisymposia1403.html).
 
-* Co-organized a minisymposium at the [ICCS 2022](https://www.iccs-meeting.org/iccs2022/) which was held in London, United Kingdom, June 21 - 23, 2022, ````in a hybrid (physical and virtual) format````. The topic was on [Artificial Intelligence and High-Performance Computing for Advanced Simulations](https://home.agh.edu.pl/~iacs/).
+* Co-organized a minisymposium at the [ICCS 2022](https://www.iccs-meeting.org/iccs2022/), held in London, United Kingdom, June 21 - 23, 2022, ````in a hybrid (physical and virtual) format````. The topic was on [Artificial Intelligence and High-Performance Computing for Advanced Simulations](https://home.agh.edu.pl/~iacs/).
 
 * Joined ANU School of Computing in February 2022.
 
