@@ -4,9 +4,7 @@ layout: default
 ---
 
 
-<img align="right" width="300" height="200" src="images/deng.jpg">
-
-<img src="images/deng.jpg">
+<img align="left" width="300" height="200" src="images/deng.jpg">
 
 ### Quanling Deng
 
