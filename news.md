@@ -1,3 +1,8 @@
+---
+title: News
+layout: default
+---
+
 ## Incoming
 
 * MOSSI Workshop on Mathematics of Sea Ice and Ice Sheets, University of Adelaide, 9th of November 2022 to 11th of November 2022
