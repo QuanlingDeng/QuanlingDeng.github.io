@@ -27,14 +27,14 @@ Group leader
 
 * * * 
 
-<img align="left" width="300" height="300" src="images/chen.jpg">
+<img align="left" width="240" height="300" src="images/chen.jpg">
 
 ### Diwen Chen
 
 Master Student
 
-- Antarctic sea ice
-- Neural Network (IceNet)
+Antarctic sea ice
+Neural Network (IceNet)
 
 <br />
 <br />
