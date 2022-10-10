@@ -27,7 +27,7 @@ Group leader
 
 * * * 
 
-<img align="left" width="200" height="200" src="images/chen.jpg">
+<img align="left" width="300" height="300" src="images/chen.jpg">
 
 ### Diwen Chen
 
