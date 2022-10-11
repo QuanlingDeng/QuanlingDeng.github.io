@@ -6,7 +6,7 @@ layout: default
 
 <img align="left" width="300" height="200" src="images/deng.jpg">
 
-&nbsp&nbsp ### Quanling Deng
+&nbsp; &nbsp; ### Quanling Deng
 
 &nbsp&nbsp Group leader
 
