@@ -68,7 +68,7 @@ layout: default
 
 * * * 
 
-<img align="left" width="300" height="280" src="images/Li.jpg">
+<img align="left" width="300" height="300" src="images/Li.jpg">
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Danyang Li**
 
