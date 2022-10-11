@@ -45,6 +45,66 @@ Neural Network (IceNet)
 
 * * * 
 
+<img align="left" width="300" height="280" src="images/lh.jpg">
+
+### Liam Harcombe
+
+PhB(Hons) Student 
+
+Eigenvalues of differential operators
+Neural Network (PINN)
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* * * 
+
+<img align="left" width="300" height="280" src="images/Li.jpg">
+
+### Danyang Li
+
+Master Student
+
+Finite element methods
+Soft isogeometric analysis
+Numerical methods for differential eigenvalue problems
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* * * 
+
+
+<img align="left" width="300" height="280" src="images/anu.jpg">
+
+### Anousheh Moonen
+
+PhB(Hons) Student 
+
+Inverse Problems
+Neural Network
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* * * 
+
+
 <table class="fixed">
   <col width="200"/>
   <col width="200"/>
