@@ -43,11 +43,10 @@ layout: default
 <br />
 <br />
 <br />
-<br />
 
 * * * 
 
-<img align="left" width="300" height="300" src="images/lh.jpg">
+<img align="left" width="300" height="320" src="images/lh.jpg">
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Liam Harcombe**
 
@@ -86,8 +85,7 @@ layout: default
 <br />
 <br />
 <br />
-<br />
-<br />
+
 
 * * * 
 
@@ -104,7 +102,6 @@ layout: default
 &nbsp; &nbsp; &nbsp; &nbsp; Neural Network
 
 
-<br />
 <br />
 <br />
 <br />
