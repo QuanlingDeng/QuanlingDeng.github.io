@@ -47,7 +47,7 @@ layout: default
 
 * * * 
 
-<img align="left" width="300" height="280" src="images/lh.jpg">
+<img align="left" width="300" height="300" src="images/lh.jpg">
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Liam Harcombe**
 
