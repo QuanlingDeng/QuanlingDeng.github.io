@@ -4,6 +4,25 @@ layout: default
 ---
 
 
+<img align="left" width="300" height="280" src="images/chen.jpg">
+
+&nbsp; &nbsp; &nbsp; &nbsp; **Diwen Chen**
+
+&nbsp; &nbsp; &nbsp; &nbsp; Master Student
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; Antarctic sea ice
+
+&nbsp; &nbsp; &nbsp; &nbsp; Neural Network (IceNet)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+* * * 
+
 <img align="left" width="300" height="200" src="images/deng.jpg">
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Quanling Deng**
@@ -19,25 +38,6 @@ layout: default
 &nbsp;
 &nbsp;
 &nbsp;
-<br />
-<br />
-<br />
-<br />
-<br />
-
-* * * 
-
-<img align="left" width="300" height="280" src="images/chen.jpg">
-
-&nbsp; &nbsp; &nbsp; &nbsp; **Diwen Chen**
-
-&nbsp; &nbsp; &nbsp; &nbsp; Master Student
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; Antarctic sea ice
-
-&nbsp; &nbsp; &nbsp; &nbsp; Neural Network (IceNet)
-
 <br />
 <br />
 <br />
