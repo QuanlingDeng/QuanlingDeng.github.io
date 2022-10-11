@@ -70,8 +70,8 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; Master Student
 
-&nbsp; &nbsp; &nbsp; &nbsp; Finite element methods\\
-&nbsp; &nbsp; &nbsp; &nbsp; Soft isogeometric analysis\\
+&nbsp; &nbsp; &nbsp; &nbsp; Finite element methods
+&nbsp; &nbsp; &nbsp; &nbsp; Soft isogeometric analysis
 &nbsp; &nbsp; &nbsp; &nbsp; Numerical methods for differential eigenvalue problems
 
 
