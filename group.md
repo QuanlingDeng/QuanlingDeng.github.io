@@ -25,7 +25,6 @@ layout: default
 <br />
 
 * * * 
-* * *
 
 <img align="left" width="300" height="280" src="images/chen.jpg">
 
