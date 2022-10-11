@@ -33,7 +33,7 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; Master Student
 
-&nbsp; &nbsp; &nbsp; &nbsp; Antarctic sea ice
+&nbsp; &nbsp; &nbsp; &nbsp; Antarctic sea ice\\
 &nbsp; &nbsp; &nbsp; &nbsp; Neural Network (IceNet)
 
 <br />
@@ -51,7 +51,7 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; PhB(Hons) Student 
 
-&nbsp; &nbsp; &nbsp; &nbsp; Eigenvalues of differential operators
+&nbsp; &nbsp; &nbsp; &nbsp; Eigenvalues of differential operators\\
 &nbsp; &nbsp; &nbsp; &nbsp; Neural Network (PINN)
 
 
@@ -70,8 +70,8 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; Master Student
 
-&nbsp; &nbsp; &nbsp; &nbsp; Finite element methods
-&nbsp; &nbsp; &nbsp; &nbsp; Soft isogeometric analysis
+&nbsp; &nbsp; &nbsp; &nbsp; Finite element methods\\
+&nbsp; &nbsp; &nbsp; &nbsp; Soft isogeometric analysis\\
 &nbsp; &nbsp; &nbsp; &nbsp; Numerical methods for differential eigenvalue problems
 
 
@@ -91,7 +91,7 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; PhB(Hons) Student 
 
-&nbsp; &nbsp; &nbsp; &nbsp; Inverse Problems
+&nbsp; &nbsp; &nbsp; &nbsp; Inverse Problems\\
 &nbsp; &nbsp; &nbsp; &nbsp; Neural Network
 
 
