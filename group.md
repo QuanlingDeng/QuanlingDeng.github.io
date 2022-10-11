@@ -6,9 +6,9 @@ layout: default
 
 <img align="left" width="300" height="200" src="images/deng.jpg">
 
-&nbsp; &nbsp; **Quanling Deng**
+&nbsp; &nbsp; &nbsp; &nbsp; **Quanling Deng**
 
-&nbsp; &nbsp; Group leader
+&nbsp; &nbsp; &nbsp; &nbsp; Group leader
 
 &nbsp;
 &nbsp;
