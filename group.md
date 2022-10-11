@@ -29,12 +29,12 @@ layout: default
 
 <img align="left" width="300" height="280" src="images/chen.jpg">
 
-### Diwen Chen
+&nbsp; &nbsp; &nbsp; &nbsp; **Diwen Chen**
 
-Master Student
+&nbsp; &nbsp; &nbsp; &nbsp; Master Student
 
-Antarctic sea ice
-Neural Network (IceNet)
+&nbsp; &nbsp; &nbsp; &nbsp; Antarctic sea ice
+&nbsp; &nbsp; &nbsp; &nbsp; Neural Network (IceNet)
 
 <br />
 <br />
@@ -47,12 +47,12 @@ Neural Network (IceNet)
 
 <img align="left" width="300" height="280" src="images/lh.jpg">
 
-### Liam Harcombe
+&nbsp; &nbsp; &nbsp; &nbsp; **Liam Harcombe**
 
-PhB(Hons) Student 
+&nbsp; &nbsp; &nbsp; &nbsp; PhB(Hons) Student 
 
-Eigenvalues of differential operators
-Neural Network (PINN)
+&nbsp; &nbsp; &nbsp; &nbsp; Eigenvalues of differential operators
+&nbsp; &nbsp; &nbsp; &nbsp; Neural Network (PINN)
 
 
 <br />
@@ -66,13 +66,13 @@ Neural Network (PINN)
 
 <img align="left" width="300" height="280" src="images/Li.jpg">
 
-### Danyang Li
+&nbsp; &nbsp; &nbsp; &nbsp; **Danyang Li**
 
-Master Student
+&nbsp; &nbsp; &nbsp; &nbsp; Master Student
 
-Finite element methods
-Soft isogeometric analysis
-Numerical methods for differential eigenvalue problems
+&nbsp; &nbsp; &nbsp; &nbsp; Finite element methods
+&nbsp; &nbsp; &nbsp; &nbsp; Soft isogeometric analysis
+&nbsp; &nbsp; &nbsp; &nbsp; Numerical methods for differential eigenvalue problems
 
 
 <br />
@@ -87,12 +87,12 @@ Numerical methods for differential eigenvalue problems
 
 <img align="left" width="300" height="280" src="images/anu.jpg">
 
-### Anousheh Moonen
+&nbsp; &nbsp; &nbsp; &nbsp; **Anousheh Moonen**
 
-PhB(Hons) Student 
+&nbsp; &nbsp; &nbsp; &nbsp; PhB(Hons) Student 
 
-Inverse Problems
-Neural Network
+&nbsp; &nbsp; &nbsp; &nbsp; Inverse Problems
+&nbsp; &nbsp; &nbsp; &nbsp; Neural Network
 
 
 <br />
