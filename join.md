@@ -90,7 +90,7 @@ Please follow the following guidlines and email me to express your interest.
  - [COSIMA Ocean Sea Ice Modeling](http://cosima.org.au/index.php/2021/10/06/cosima-offers-scholarships/)
 
 
-### Climate Change Related
+### School of Computing Pioneering Women
 
 - [Pioneering Women Researchers (Both Domestic and International)](https://comp.anu.edu.au/join/pwp/)
 
