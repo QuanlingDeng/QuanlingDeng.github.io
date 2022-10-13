@@ -82,6 +82,12 @@ Please follow the following guidlines and email me to express your interest.
 
   [Meta](https://research.facebook.com/fellowship/)
   Due 20 Sep, not clear on the time zone, to be safe, I recommend using Canberra time zone
+  
+  ### Climate Change Related
+  
+  - [Climate Game Change Scholarship](https://iceds.anu.edu.au/news-events/news/scholarship-open-support-climate-game-changers-apply-now)
+  
+  - [COSIMA Ocean Sea Ice Modeling](http://cosima.org.au/index.php/2021/10/06/cosima-offers-scholarships/)
 
 
 
