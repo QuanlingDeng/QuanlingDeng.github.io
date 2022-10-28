@@ -91,7 +91,7 @@ layout: default
 * * * 
 
 
-<img align="left" width="300" height="280" src="images/anu.jpg">
+<img align="left" width="300" height="280" src="images/moonen.jpg">
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Anousheh Moonen**
 
