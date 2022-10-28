@@ -88,7 +88,6 @@ layout: default
 <br />
 <br />
 <br />
-<br />
 
 
 * * * 
@@ -106,7 +105,6 @@ layout: default
 &nbsp; &nbsp; &nbsp; &nbsp; Neural Network
 
 
-<br />
 <br />
 <br />
 <br />
