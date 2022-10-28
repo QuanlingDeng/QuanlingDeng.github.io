@@ -82,6 +82,8 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; Numerical methods for differential eigenvalue problems
 
+&nbsp; &nbsp; &nbsp; &nbsp; [Submitted paper arXiv preprint](https://arxiv.org/abs/2210.06832)
+
 
 <br />
 <br />
