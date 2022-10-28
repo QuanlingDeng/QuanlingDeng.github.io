@@ -47,7 +47,7 @@ layout: default
 
 
 
-<img align="left" width="300" height="320" src="images/lh.jpg">
+<img align="left" width="300" height="330" src="images/lh.jpg">
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Liam Harcombe**
 
@@ -59,6 +59,7 @@ layout: default
 &nbsp; &nbsp; &nbsp; &nbsp; Neural Network (PINN)
 
 
+<br />
 <br />
 <br />
 <br />
@@ -91,7 +92,7 @@ layout: default
 * * * 
 
 
-<img align="left" width="300" height="280" src="images/moonen.jpg">
+<img align="left" width="300" height="320" src="images/moonen.jpg">
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Anousheh Moonen**
 
