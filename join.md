@@ -28,24 +28,23 @@ In this project, we will also look into real-world applications such as structur
 - **Neural networks for high-dimensional differential eigenvalue problems**
 The classic second-order elliptic differential eigenvalue problems can be solved efficiently by using the finite element methods (FEMs) or FEM-based methods. For differential operators living in a high-dimensional space, the eigenvalue problem (numerical spectral approximation) becomes particularly challenging due to the “curse of dimensionality”, a phenomenon that the computational complexity of certain algorithms increases exponentially with the dimension. This project aims to develop neural network models to efficiently approximate the spectrum and eigenfunctions of the differential operator. 
 
-- **Deep learning based permeability characterisation in porous media**:
-It has been a well-known challenge to model and simulate of multiphase fluid flow through porous and poroelastic media. 
-Related projects are best known for their importance in oil recovery from petroleum reservoirs, 
-but they also find applications in novel areas such as hydrofracturing for natural gas recovery.
-Australia has about 0.3 percent of the world oil reserves. Most of Australia’s known remaining oil resources are condensate and liquefied petroleum gas associated with giant offshore gas fields. Many researchers in USA and China have been make efforts to develop mathematical models 
-and simulation techniques to predict and maximize oil production. One of the major challenges is the lack knowledge of the subsurface permeability in the modeling equations. Permeability measures a fluid’s ability to flow through a porous solid. A standard non-destructive technique to
-determine the location of material discontinuities inside solids is to measure sound waves that travelled through the medium. 
-Presently, there is an unmet need to use elastic waves to image the permeability distribution of saturated porous solids, such as rocks and bones. 
-This project aims to first develop the next generation of mathematical models that describe wave propagation in fluid-saturated porous media
-and then design and implement ML-based inversion methods to  the permeability.
-
 - **Parallel computing and machine learning for Arctic sea ice dynamics simulations**:
 One major challenge in applying the DEM models to simulate Arctic sea ice dynamics is the heavy computational cost 
-when the number of the floes becomes large. This project aims to develop a parallel computing structure that divides the simulation tasks.
+when the number of floes becomes large. This project aims to develop a parallel computing structure that divides the simulation tasks.
 This structure is to be used in a high performance computing (HPC) environment with more computational sources 
 when running more realistic Arctic sea ice simulations. These research directions would improve the physical modeling and prediction
 of Arctic sea ice, so as to improve the understanding of sea ice impacts on global warming.
 
+- **Deep learning based permeability characterisation in porous media**:
+It has been a well-known challenge to model and simulate multiphase fluid flow through porous and poroelastic media. 
+Related projects are best known for their importance in oil recovery from petroleum reservoirs, 
+but they also find applications in novel areas such as hydrofracturing for natural gas recovery.
+Australia has about 0.3 percent of the world's oil reserves. Most of Australia’s known remaining oil resources are condensate and liquefied petroleum gas associated with giant offshore gas fields. Many researchers in USA and China have been making efforts to develop mathematical models 
+and simulation techniques to predict and maximize oil production. One of the major challenges is the lack of knowledge of the subsurface permeability in the modeling equations. Permeability measures a fluid’s ability to flow through a porous solid. A standard non-destructive technique to
+determine the location of material discontinuities inside solids is to measure sound waves that travel through the medium. 
+Presently, there is an unmet need to use elastic waves to image the permeability distribution of saturated porous solids, such as rocks and bones. 
+This project aims to first develop the next generation of mathematical models that describe wave propagation in fluid-saturated porous media
+and then design and implement ML-based inversion methods to  the permeability.
 
 ## ANU students interested in joining the group as a PhD student
 Please follow the following guidlines and email me to express your interest.
