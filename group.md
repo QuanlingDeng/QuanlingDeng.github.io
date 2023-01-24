@@ -30,12 +30,11 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Danyang Li**
 
-&nbsp; &nbsp; &nbsp; &nbsp; Master Student
+&nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Student
 
+&nbsp; &nbsp; &nbsp; &nbsp; Physics-Informed Neural Networks
 
-&nbsp; &nbsp; &nbsp; &nbsp; Finite element methods
-
-&nbsp; &nbsp; &nbsp; &nbsp; Soft isogeometric analysis
+&nbsp; &nbsp; &nbsp; &nbsp; (Soft-) FEM/IGA 
 
 &nbsp; &nbsp; &nbsp; &nbsp; Numerical methods for differential eigenvalue problems
 
