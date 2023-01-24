@@ -32,9 +32,9 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Student
 
-&nbsp; &nbsp; &nbsp; &nbsp; Physics-Informed Neural Networks
+&nbsp; &nbsp; &nbsp; &nbsp; Physics-informed neural networks
 
-&nbsp; &nbsp; &nbsp; &nbsp; (Soft-) FEM/IGA 
+&nbsp; &nbsp; &nbsp; &nbsp; (Soft-) FEM and isogeometric analysis
 
 &nbsp; &nbsp; &nbsp; &nbsp; Numerical methods for differential eigenvalue problems
 
@@ -50,12 +50,12 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Anousheh Moonen**
 
-&nbsp; &nbsp; &nbsp; &nbsp; PhB(Hons) Student 
+&nbsp; &nbsp; &nbsp; &nbsp; Ph.B.(Hons) Student 
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; Inverse Problems
+&nbsp; &nbsp; &nbsp; &nbsp; Inverse problems
 
-&nbsp; &nbsp; &nbsp; &nbsp; Neural Network
+&nbsp; &nbsp; &nbsp; &nbsp; Neural network
 
 
 <br />
@@ -80,7 +80,7 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; Antarctic sea ice
 
-&nbsp; &nbsp; &nbsp; &nbsp; Neural Network (IceNet)
+&nbsp; &nbsp; &nbsp; &nbsp; Neural network (IceNet)
 
 <br />
 <br />
@@ -96,12 +96,12 @@ layout: default
 
 &nbsp; &nbsp; &nbsp; &nbsp; **Liam Harcombe**
 
-&nbsp; &nbsp; &nbsp; &nbsp; PhB(Hons) Student 
+&nbsp; &nbsp; &nbsp; &nbsp; Ph.B.(Hons) Student 
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; Eigenvalues of differential operators
 
-&nbsp; &nbsp; &nbsp; &nbsp; Neural Network (PINN)
+&nbsp; &nbsp; &nbsp; &nbsp; Neural network (PINN)
 
 
 <br />
