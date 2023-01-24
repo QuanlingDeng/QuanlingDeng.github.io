@@ -5,13 +5,17 @@ layout: default
 
 ## Incoming
 
-* MOSSI Workshop on Mathematics of Sea Ice and Ice Sheets, University of Adelaide, 9th of November 2022 to 11th of November 2022
+* Invited talk on "Sea Ice Modeling Challenges: A Multiscale Method and An Optimisation Problem", Optimisation Seminars Series, Curtin University, Jan 27, 2023
 
-* CTAC Computational Techniques and Applications Conference, Queensland University of Technology, 29 November to 2 December 2022 
+* Invited talk, International Conference on Applied Mathematics 2023 (ICAM 2023), City University of Hong Kong, 30 May - 3 June 2023.
+
+## Past
 
 * The 66th Annual Meeting of the Australian Mathematical Society, UNSW, December 6-9, 2022
 
-## Past
+* CTAC Computational Techniques and Applications Conference, Queensland University of Technology, 29 November to 2 December 2022 
+
+* MOSSI Workshop on Mathematics of Sea Ice and Ice Sheets, University of Adelaide, 9th of November 2022 to 11th of November 2022
 
 * Our paper "SoftIGA: soft isogeometric analysis" (with Pouria Behnoudfar and Victor M. Calo) was accepted for publication in CMAME
 
