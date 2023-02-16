@@ -5,10 +5,9 @@ layout: default
 
 ## Current students
 
-**Danyang Li**, Ph.D. Student, Physics-informed neural networks, softFEM, softIGA, 
+- **Danyang Li**, Ph.D. Student, Physics-informed neural networks, mumerical methods
 
 
-* * * 
 ## Former students
 
 - **Anousheh Moonen**, Ph.B.(Hons) Student, Neural Networks for inverse problems
