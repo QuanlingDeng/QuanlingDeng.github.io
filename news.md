@@ -5,11 +5,11 @@ layout: default
 
 ## Incoming
 
-* Invited talk on "Sea Ice Modeling Challenges: A Multiscale Method and An Optimisation Problem", Optimisation Seminars Series, Curtin University, Jan 27, 2023
-
 * Invited talk, [International Conference on Applied Mathematics 2023 (ICAM 2023)](https://www.cityu.edu.hk/rcms/icam2020/index.html), City University of Hong Kong, 30 May - 3 June 2023.
 
 ## Past
+
+* Invited talk on "Sea Ice Modeling Challenges: A Multiscale Method and An Optimisation Problem", Optimisation Seminars Series, Curtin University, Jan 27, 2023
 
 * The 66th Annual Meeting of the Australian Mathematical Society, UNSW, December 6-9, 2022
 
