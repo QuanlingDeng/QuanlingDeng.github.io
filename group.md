@@ -17,7 +17,7 @@ layout: default
 
 - **Heming Zhu**, Undergraduate (FDD. Hons) Student, Soft spectral element method (softSEM) and its application to seismic wave simulation (co-supervision)
 
-- **Chengchao Dun**, Master Student, Machine learning-assisted modeling of sea ice floes
+- **Chengchao Dun**, Master Student (SoCo), Machine learning-assisted modeling of sea ice floes
 
 - **Hengrui Bai**, Undergraduate (Adv. Comp. Hons) Student, Deep reinforcement learning for Black–Scholes equation
 
