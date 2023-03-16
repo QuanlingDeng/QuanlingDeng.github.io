@@ -5,9 +5,11 @@ layout: default
 
 ## Current students
 
-- **Danyang Li**, Ph.D. Student, Numerical methods, Neural networks
+- **Danyang Li**, Ph.D. Student (SoCo), Numerical methods, Neural networks
 
-- **Daming Huang**, Master Student, PINN for stochastic volatility models
+- **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (Ph.D. supervisory panel)
+
+- **Daming Huang**, Master Student (SoCo), PINN for stochastic volatility models
 
 - **Yifei Wang**, Undergraduate (Adv. Comp. Hons) Student, PINN for DEM modeling of sea ice floes
 
