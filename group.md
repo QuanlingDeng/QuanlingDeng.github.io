@@ -7,7 +7,7 @@ layout: default
 
 - **Danyang Li**, Ph.D. Student (SoCo), Numerical methods, Neural networks
 
-- **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (<u>Ph.D. supervisory panel</u>)
+- **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (Ph.D. supervisory panel)
 
 - **Sichao Li**, Ph.D. Student (SoCo), Machine learning, inverse problem, material intelligence (Ph.D. supervisory panel)
 
