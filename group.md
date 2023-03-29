@@ -5,7 +5,7 @@ layout: default
 
 ## Current students
 
-- **Danyang Li**, Ph.D. Student (SoCo), Numerical methods, Neural networks
+- **Danyang Li**, Ph.D. Student (SoCo), Numerical methods, Neural networks (Chair and primary supervisor)
 
 - **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (Ph.D. supervisory panel)
 
