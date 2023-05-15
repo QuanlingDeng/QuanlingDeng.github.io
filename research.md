@@ -10,7 +10,7 @@ layout: default
 
 - Uncertainty quantification and data assimilation: stochastic models, Kalman filters, Ornstein-Uhlenbeck process.
 
-- Artificial intelligence and machine learning: particle swarm optimization, physics-informed neural networks, supervised learning.
+- Artificial intelligence and machine learning: particle swarm optimization, neural networks, physics-informed neural networks, CNN, IceNet, feature interaction, supervised learning.
 
 ## Publications 
 - See [Google Scholar Profile](https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en), or
