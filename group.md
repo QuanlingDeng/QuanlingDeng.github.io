@@ -5,11 +5,11 @@ layout: default
 
 ## Current students
 
-- **Danyang Li**, Ph.D. Student (SoCo), Numerical methods, Neural networks (Chair and primary supervisor)
+- **Danyang Li**, Ph.D. Student (SoCo), Numerical modeling, neural networks (CNN, U-Net, diffusion models), sea ice (Chair and primary supervisor)
 
 - **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (Ph.D. supervisory panel)
 
-- **Sichao Li**, Ph.D. Student (SoCo), Machine learning, inverse problem, material intelligence (Ph.D. supervisory panel)
+- **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (Ph.D. supervisory panel)
 
 - **Daming Huang**, Master Student (SoCo), PINN for stochastic volatility models
 
@@ -17,16 +17,16 @@ layout: default
 
 - **Heming Zhu**, Undergraduate (FDD. Hons) Student, Soft spectral element method (softSEM) and its application to seismic wave simulation (co-supervision)
 
-- **Chengchao Dun**, Master Student (SoCo), Machine learning-assisted modeling of sea ice floes
+- **Chengchao Dun**, Master Student (SoCo), Machine learning-assisted modeling of sea ice floes, separable CNNs
 
 - **Hengrui Bai**, Undergraduate (Adv. Comp. Hons) Student, Deep reinforcement learning for Black–Scholes equation
 
 ## Former students
 
-- **Anousheh Moonen**, Ph.B.(Hons) Student, Neural Networks for inverse problems
+- **Anousheh Moonen**, Ph.B.(Hons) Student, Neural Networks for inverse eigenvalue problems
 
-- **Diwen Chen**, Master Student, Neural network (IceNet) for Antarctic sea ice
+- **Diwen Chen**, Master Student, Neural network (IceNet, CNN U-Net) for Antarctic sea ice
 
-- **Liam Harcombe**, Ph.B.(Hons) Student, Neural Networks for differential eigenvalue problems
+- **Liam Harcombe**, Ph.B.(Hons) Student, Neural Networks for differential eigenvalue problems, Anderson localisation ([submitted to journal for review](https://arxiv.org/abs/2305.06802) )
 
-- **Danyang Li**, Master Student, softFEM/softIGA differential eigenvalue problems ([Submitted paper arXiv preprint](https://arxiv.org/abs/2210.06832))
+- **Danyang Li**, Master Student, softFEM/softIGA differential eigenvalue problems (publication in [Journal of Computational Science](https://www.sciencedirect.com/science/article/pii/S1877750323000923))
