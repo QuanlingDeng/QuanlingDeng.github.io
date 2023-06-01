@@ -218,8 +218,4 @@ We propose a new strategy for solving stiff ordinary differential equations (ODE
  </tr>
 </table> 
 
-* * * *
 
-
-## Research visits, talks, and other activities
-- See [CV here](https://quanlingdeng.github.io/deng.pdf).
