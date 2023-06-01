@@ -8,7 +8,7 @@ layout: default
 
 - Scientific computing and numerical analysis: parallel computing, preconditioners, post-processing, PDE numerical solvers such as FDM, FVM, FEM, IGA, DG, HHO, Runge--Kutta methods, and generalized-alpha methods, operator splitting schemes, dispersion and spectral analysis, a priori and a posteriori error analysis.
 
-- Uncertainty quantification and data assimilation: stochastic models, Kalman filters, Ornstein-Uhlenbeck process.
+- Uncertainty quantification and data assimilation: stochastic models, Ornstein-Uhlenbeck process, Kalman filters, conditional Gaussian filter.
 
 - Artificial intelligence and machine learning: physics-informed/graph neural networks, CNN, IceNet, feature interaction, supervised/unsupervised learning.
 
