@@ -5,6 +5,8 @@ layout: default
 
 ## Current students
 
+- **Ruibiao Zhu**, Ph.D. Student (SoCo), Graph neural networks, sea ice floes, multis-cales (Primary supervisor)
+
 - **Danyang Li**, Ph.D. Student (SoCo), Numerical modeling, neural networks (CNN, U-Net, diffusion models), sea ice (Chair and primary supervisor)
 
 - **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (Ph.D. supervisory panel)
