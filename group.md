@@ -9,9 +9,9 @@ layout: default
 
 - **Danyang Li**, Ph.D. Student (SoCo), Numerical modeling, neural networks (CNN, U-Net, diffusion models), sea ice (Chair and primary supervisor)
 
-- **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (Ph.D. supervisory panel)
+- **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adpative FEM method, fault recovery in a parallel environment (associate supervisor)
 
-- **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (Ph.D. supervisory panel)
+- **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (associate supervisor)
 
 - **Daming Huang**, Master Student (SoCo), PINN for stochastic volatility models
 
