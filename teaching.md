@@ -3,7 +3,7 @@ title: Teaching
 layout: default
 ---
 
-I will be teaching Numerical Computation in S2 2023; see the course page [here](https://quanlingdeng.github.io/comp2710.html).
+I will be teaching Numerical Computing in S2 2023; see the course page [here](https://quanlingdeng.github.io/comp2710.html).
 
 ## ANU:
 - [COMP2710](https://programsandcourses.anu.edu.au/course/comp2710), Special Topics in Computer Science ([Numerical Computing with Julia]([https://julialang.org/](https://quanlingdeng.github.io/comp2710.html))), Semester 2 2023 
