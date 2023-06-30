@@ -2,8 +2,11 @@
 title: Teaching
 layout: default
 ---
+
+I will be teaching Numerical Computation in S2 2023; see the course page [here](https://quanlingdeng.github.io/comp2710.html).
+
 ## ANU:
-- [COMP2710](https://programsandcourses.anu.edu.au/course/comp2710), Special Topics in Computer Science (Computing with [Julia](https://julialang.org/)), Semester 2 2023 
+- [COMP2710](https://programsandcourses.anu.edu.au/course/comp2710), Special Topics in Computer Science ([Numerical Computing with Julia]([https://julialang.org/](https://quanlingdeng.github.io/comp2710.html))), Semester 2 2023 
 
 - [COMP2420](https://programsandcourses.anu.edu.au/course/comp2420)/[COMP6420](https://programsandcourses.anu.edu.au/course/COMP6420), Introduction to Data Management, Analysis and Security, Semester 1 2023, focusing on Data Analysis part (convenor [Professor Matthew Hole](https://maths.anu.edu.au/people/academics/matthew-hole))
 
