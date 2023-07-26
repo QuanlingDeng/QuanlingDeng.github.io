@@ -13,6 +13,8 @@ layout: default
 
 - **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (associate supervisor)
 
+- **Jipei Chen**, Master Student (SoCo), softFEM, Neural networks, DeepSoftFEM
+  
 - **Daming Huang**, Master Student (SoCo), PINN for stochastic volatility models
 
 - **Yifei Wang**, Undergraduate (Adv. Comp. Hons) Student, PINN for DEM modeling of sea ice floes
