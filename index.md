@@ -10,6 +10,7 @@ redirect_from:
 
 Machine artificial intelligence ---> Human intelligence as time ---> infinity, but the space of AI is not [Cauchy complete](https://en.wikipedia.org/wiki/Complete_metric_space). Welcome to my webpage!
 
+* * *
 <img align="right" width="300" height="200" src="images/deng.jpg">
 
 Quanling Deng  
