@@ -19,7 +19,7 @@ Lecturer
 [Australian National University](https://comp.anu.edu.au/)  
 Canberra, ACT, Australia 0200  
 Office: Room 4.19, [Hanna Neumann Blg (145)](https://www.anu.edu.au/maps#show=102872)  
-Tel:    02 6125 7718
+Tel:    02 6125 7718        
 Email:  Firstname.Lastname@anu.edu.au
 
 
