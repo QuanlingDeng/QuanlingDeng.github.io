@@ -8,7 +8,7 @@ layout: default
 
 ## Past
 
-* First paper with first-year undergraduate got published [here](https://www.sciencedirect.com/science/article/pii/S1877750323001965)!
+* The first paper with a first-year undergraduate got published [here](https://www.sciencedirect.com/science/article/pii/S1877750323001965)!
 
 * Co-organized the [ANU Workshop on Computational_Genomic](https://www.mso.anu.edu.au/~yting/Computational_Genomic/), August 31, 2023.
 
