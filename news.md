@@ -8,6 +8,10 @@ layout: default
 
 ## Past
 
+* First paper with first-year undergraduate got published [here](https://www.sciencedirect.com/science/article/pii/S1877750323001965)!
+
+* Co-organized the [ANU Workshop on Computational_Genomic](https://www.mso.anu.edu.au/~yting/Computational_Genomic/), August 31, 2023.
+
 * Invited talk, [International Conference on Applied Mathematics 2023 (ICAM 2023)](https://www.cityu.edu.hk/rcms/icam2020/index.html), City University of Hong Kong, 30 May - 3 June 2023.
 
 * Co-chair a minisymposium on [Artificial Intelligence and High-Performance Computing for Advanced Simulations](https://home.agh.edu.pl/~iacs/) at the [ICCS 2023](https://www.iccs-meeting.org/iccs2023/), to be held in Prague, Czech Republic, 3-5 July, 2023.
