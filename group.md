@@ -31,6 +31,6 @@ layout: default
 
 - **Diwen Chen**, Master Student, Neural network (IceNet, CNN U-Net) for Antarctic sea ice
 
-- **Liam Harcombe**, Ph.B.(Hons) Student, Neural Networks for differential eigenvalue problems, Anderson localisation ([submitted to journal for review](https://arxiv.org/abs/2305.06802) )
+- **Liam Harcombe**, Ph.B.(Hons) Student, Neural Networks for differential eigenvalue problems, Anderson localisation (publication in [Journal of Computational Science](https://www.sciencedirect.com/science/article/pii/S1877750323001965) )
 
 - **Danyang Li**, Master Student, softFEM/softIGA differential eigenvalue problems (publication in [Journal of Computational Science](https://www.sciencedirect.com/science/article/pii/S1877750323000923))
