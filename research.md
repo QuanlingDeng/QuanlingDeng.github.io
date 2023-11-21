@@ -4,13 +4,11 @@ layout: default
 ---
 
 ## Research interests
-- Applied mathematics: mathematical modeling and simulation of sea ice floe dynamics, ocean and atmosphere dynamics, and fluid flow through poroelastic media
+- Applied Mathematics and Applied Machine Learning: Sea ice floe dynamics, ocean and atmosphere dynamics,  deep neural networks, physics-informed neural networks, U-net, feature selection/interaction
 
-- Uncertainty quantification and data assimilation: stochastic models, Ornstein-Uhlenbeck process, Kalman filters, conditional Gaussian filter, Lagrangian and Eulerian data assimilation
+- Uncertainty Quantification and Data Assimilation: stochastic models, Ornstein-Uhlenbeck process, Kalman filters, conditional Gaussian filter, Lagrangian and Eulerian data assimilation
 
-- Applied Machine Learning: deep neural networks, physics-informed/graph neural networks, CNN, U-net, IceNet, feature selection/interaction. 
-
-- Scientific computing and computational mathematics: parallel computing, preconditioners, post-processing, PDE numerical solvers such as FDM, FVM, FEM, IGA, DG, HHO, Runge--Kutta methods, and generalized-alpha methods, operator splitting schemes, dispersion and spectral analysis, a priori and a posteriori error analysis.
+- Scientific Computing and Computational Mathematics: parallel computing, preconditioners, post-processing, PDE numerical solvers such as FDM, FVM, FEM, IGA, DG, HHO, Runge--Kutta methods, and generalized-alpha methods, operator splitting schemes, dispersion and spectral analysis, a priori and a posteriori error analysis.
 
 
 ## Publications 
