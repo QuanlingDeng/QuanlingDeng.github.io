@@ -14,7 +14,6 @@ layout: default
 ## Publications 
 - See [Google Scholar Profile](https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en), or
 - See [ResearchGate Profile](https://www.researchgate.net/profile/Quanling-Deng), or
-- See [CV here](https://quanlingdeng.github.io/deng.pdf).
 
 ## A talk given at ANU [MSI MACS](https://maths.anu.edu.au/news-events/event-series/mathematics-and-computational-sciences-seminar): 
 - [Superparameterisation of Arctic sea ice floes](https://maths.anu.edu.au/news-events/events/superparameterisation-arctic-sea-ice-floes)
