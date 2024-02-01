@@ -15,6 +15,8 @@ layout: default
 - See [Google Scholar Profile](https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en), or
 - See [ResearchGate Profile](https://www.researchgate.net/profile/Quanling-Deng)
 
+## Most recent work [LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework](https://arxiv.org/abs/2401.18048)
+
 ## A talk given at ANU [MSI MACS](https://maths.anu.edu.au/news-events/event-series/mathematics-and-computational-sciences-seminar): 
 - [Superparameterisation of Arctic sea ice floes](https://maths.anu.edu.au/news-events/events/superparameterisation-arctic-sea-ice-floes)
 <iframe width="800" height="450" src="https://www.youtube.com/embed/2faQpkqomZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
