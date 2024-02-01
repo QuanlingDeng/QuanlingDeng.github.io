@@ -15,7 +15,11 @@ layout: default
 - See [Google Scholar Profile](https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en), or
 - See [ResearchGate Profile](https://www.researchgate.net/profile/Quanling-Deng)
 
-## Most recent work [LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework](https://arxiv.org/abs/2401.18048)
+## Most recent work 
+- [LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework](https://arxiv.org/abs/2401.18048)
+- [Exploring the cloud of feature interaction scores in a Rashomon set](https://arxiv.org/abs/2305.10181), ICLR 2024
+- [Particle-Continuum Multiscale Modeling of Sea Ice Floes](https://epubs.siam.org/eprint/NXPIP7Z6PJXBYE3APWKM/full), SIAM MMS
+- Fault-tolerant Parallel Multigrid Method on Unstructured Adaptive Mesh, SIAM Journal on Scientific Computing
 
 ## A talk given at ANU [MSI MACS](https://maths.anu.edu.au/news-events/event-series/mathematics-and-computational-sciences-seminar): 
 - [Superparameterisation of Arctic sea ice floes](https://maths.anu.edu.au/news-events/events/superparameterisation-arctic-sea-ice-floes)
