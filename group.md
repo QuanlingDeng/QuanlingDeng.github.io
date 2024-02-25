@@ -14,7 +14,22 @@ layout: default
 - **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (associate supervisor)
 
 - **Jipei Chen**, Master Student (SoCo), softFEM, Neural networks, DeepSoftFEM
+
+- **Hyeonggeun Yun**, Undergraduate (Adv. Comp.) Student, machine learning, sea ice floes, data assimilation, quasi-geostrophic model (physical domain)
+
+- **Kecheng Zhang**, Undergraduate (B. Comp.) Student, Floe-Assimilated Neural Network Ocean Recovery
+
+- **Llew Reilly**, Undergraduate (FDD. Hons) Student, Long-term wind adjustment, machine learning (co-supervision)
+
+- **Xianli Sun**, Master Student (SoCo), Rashomon set, neural networks
+
+- **Horace Ng**, Undergraduate (B.E. & B.S.) Student, C^1 Crouzeix-Raviart finite element method
+
+- **Haoqing Liu**, Master Student (SoCo), Neural networks, floe data assimilation for atmosphere-ocean-ice dynamics
   
+
+## Former students
+
 - **Daming Huang**, Master Student (SoCo), PINN for stochastic volatility models
 
 - **Yifei Wang**, Undergraduate (Adv. Comp. Hons) Student, PINN for DEM modeling of sea ice floes
@@ -24,8 +39,6 @@ layout: default
 - **Chengchao Dun**, Master Student (SoCo), Machine learning-assisted modeling of sea ice floes, separable CNNs
 
 - **Hengrui Bai**, Undergraduate (Adv. Comp. Hons) Student, Deep reinforcement learning for Black–Scholes equation
-
-## Former students
 
 - **Anousheh Moonen**, Ph.B.(Hons) Student, Neural Networks for inverse eigenvalue problems
 
