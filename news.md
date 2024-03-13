@@ -3,14 +3,25 @@ title: News
 layout: default
 ---
 
-## Incoming
-* Visiting Prof. Carsten Carstensen at the Department of Mathematics Humboldt-Universität zu Berlin to collaborate on Schrödinger eigenvalue problems, November - December 2023
+## Forthcoming
+
+* Invited talk at the [International Conference on Applied Mathematics 2024 (ICAM 2024)](https://www.cityu.edu.hk/rcms/icam2024/index.html), City University of Hong Kong, 28 May - 1 June 2024.
+
+* Invited talk at the [workshop on numerical methods for complex high-dimensional systems](https://www.unige.ch/math/highdim24/), Jervis Bay, NSW, Australia, July 23-26, 2024.
+
+* Invited talk at the [9th Pacific Rim Mathematical Association Congress](https://maths.anu.edu.au/news-events/events/ninth-pacific-rim-conference-mathematics-darwin), Darwin, Australia, June 17-21, 2024.
 
 ## Past
+
+* Invited talk at the Workshop on Recent Advances in Scientific Computing and Deep Learning, Tsinghua Sanya International Mathematics Forum (TSIMF), China, December 2023.
+
+* Visited Prof. Carsten Carstensen at the Department of Mathematics Humboldt-Universität zu Berlin to collaborate on Schrödinger eigenvalue problems, November - December 2023.
 
 * The first paper with a first-year undergraduate got published [here](https://www.sciencedirect.com/science/article/pii/S1877750323001965)!
 
 * Co-organized the [ANU Workshop on Computational Genomic](https://www.mso.anu.edu.au/~yting/Computational_Genomic/), August 31, 2023.
+
+* Invited talk on "Multiscale Modeling of Arctic Sea Ice Floes", Applied and Computational Math Colloquium, Yau Mathematical Sciences Center, Tsinghua University, June 2023.
 
 * Invited talk, [International Conference on Applied Mathematics 2023 (ICAM 2023)](https://www.cityu.edu.hk/rcms/icam2020/index.html), City University of Hong Kong, 30 May - 3 June 2023.
 
