@@ -7,11 +7,13 @@ layout: default
 
 - **Ruibiao Zhu**, Ph.D. Student (SoCo), Graph neural networks, sea ice floes, multiscale (Primary supervisor)
 
-- **Danyang Li**, Ph.D. Student (SoCo), Numerical modeling, neural networks (CNN, U-Net, diffusion models), sea ice (Chair and primary supervisor)
+- **Danyang Li**, Ph.D. Student (SoCo), Numerical modelling, neural networks (CNN, U-Net, diffusion models), sea ice (Chair and primary supervisor)
 
 - **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adaptive FEM method, fault recovery in a parallel environment (associate supervisor)
 
 - **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (associate supervisor)
+
+- **Riik Basu**, Ph.D. Student (SoCo), Numerical simulation (seismic wave propagation), HPC, (associate supervisor)
 
 - **Jipei Chen**, Master Student (SoCo), softFEM, Neural networks, DeepSoftFEM
 
