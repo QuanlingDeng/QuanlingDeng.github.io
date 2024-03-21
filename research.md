@@ -23,6 +23,10 @@ layout: default
 
 ## A talk given at [COSIMA Meeting](https://cosima.org.au/): 
 - [LEMDA: A Lagrangian-Eulerian multiscale data assimilation tool for ice floe dynamics](https://www.youtube.com/watch?v=emgUdA3wVXI&ab_channel=COSIMA)
+- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/emgUdA3wVXI?si=BTnFf_IHknBQUpJi&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/emgUdA3wVXI?si=BTnFf_IHknBQUpJi&amp" title="LEMDA" allowfullscreen></iframe>
+  
 - <iframe width="560" height="315" src="https://www.youtube.com/embed/emgUdA3wVXI?si=W0gCRzwYxG14VuS8&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## A talk given at ANU [MSI MACS](https://maths.anu.edu.au/news-events/event-series/mathematics-and-computational-sciences-seminar): 
