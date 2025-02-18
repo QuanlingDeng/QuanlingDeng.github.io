@@ -35,3 +35,9 @@ Dr. Quanling Deng is a Lecturer at the ANU School of Computing. Before joining A
 - [Badminton](https://quanlingdeng.github.io/bady.html)
 - [ANU Fibonacci Trees](https://quanlingdeng.github.io/fibo.html)
 - [Hiking](https://quanlingdeng.github.io/hiking.html)
+
+<script type="module" src="https://portalx.tech/api/connect" 
+  data-website="https://quanlingdeng.github.io" 
+  data-logo="https://www.google.com/s2/favicons?domain=https://quanlingdeng.github.io&sz=64"
+  data-turn-on="true">
+</script>
