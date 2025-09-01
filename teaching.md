@@ -3,14 +3,18 @@ title: Teaching
 layout: default
 ---
 
-I will be teaching COMP2400/COMP6240 (Relational Databases) in S2 2024; see the course page [here](https://programsandcourses.anu.edu.au/course/comp2400).
+## Tsinghua University:
+- TBA
+
 
 ## ANU:
+- COMP2400/6240, Relational Databases, Australian National University, co-convener, Semester 2 2024
+
 - [COMP2710](https://programsandcourses.anu.edu.au/course/comp2710), Special Topics in Computer Science ([Numerical Computing with Julia](https://quanlingdeng.github.io/comp2710.html)), Semester 2 2023 
 
-- [COMP2420](https://programsandcourses.anu.edu.au/course/comp2420)/[COMP6420](https://programsandcourses.anu.edu.au/course/COMP6420), Introduction to Data Management, Analysis and Security, Semester 1 2023, focusing on Data Analysis part (convenor [Professor Matthew Hole](https://maths.anu.edu.au/people/academics/matthew-hole))
+- [COMP2420](https://programsandcourses.anu.edu.au/course/comp2420)/[COMP6420](https://programsandcourses.anu.edu.au/course/COMP6420), Introduction to Data Management, Analysis and Security, co-convener, Semester 1 2023
 
-- [COMP2610](https://programsandcourses.anu.edu.au/course/comp2610)/[COMP6261](https://programsandcourses.anu.edu.au/course/comp6261), Information theory, Semester 2 2022 (co-teaching with [Professor Thushara Abhayapala](https://cecs.anu.edu.au/people/thushara-abhayapala))
+- [COMP2610](https://programsandcourses.anu.edu.au/course/comp2610)/[COMP6261](https://programsandcourses.anu.edu.au/course/comp6261), Information theory, co-convener, Semester 2 2022
 
 ## UW–Madison:
 - Linear Algebra and Differential Equations, Spring 2021
