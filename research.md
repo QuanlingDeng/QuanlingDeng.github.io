@@ -15,7 +15,7 @@ layout: default
 
 ## Recent work 
 - [Particle, kinetic and hydrodynamic models for sea ice floes. Part I: non-rotating floes](https://arxiv.org/pdf/2504.21809)
-- [LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004259)
+- [LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004259), Journal of Advances in Modeling Earth Systems
 - [Exploring the cloud of feature interaction scores in a Rashomon set](https://arxiv.org/abs/2305.10181), ICLR 2024
 - [Particle-Continuum Multiscale Modeling of Sea Ice Floes](https://epubs.siam.org/eprint/NXPIP7Z6PJXBYE3APWKM/full), SIAM MMS
 - Fault-tolerant Parallel Multigrid Method on Unstructured Adaptive Mesh, SIAM Journal on Scientific Computing
