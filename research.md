@@ -6,15 +6,16 @@ layout: default
 ## Research interests
 - Artificial Intelligence: machine learning, deep neural networks, CNN, U-net, physics-informed neural networks, object detection, feature selection, AI for Math/Science.
 
-- Applied and Computational Mathematics: sea ice floe dynamics, ocean and atmosphere dynamics, Kalman filters, data assimilation, uncertainty quantification, data analysis, parallel computing, modelling and simulation, PDE numerical solvers such as FEM, IGA, Runge--Kutta methods, generalized-alpha methods, error analysis.
+- Applied and Computational Mathematics: sea ice floe dynamics, multiscale modeling, ocean and atmosphere dynamics, Kalman filters, data assimilation, uncertainty quantification, data analysis, parallel computing, modelling and simulation, PDE numerical solvers such as FEM, IGA, Runge--Kutta methods, generalized-alpha methods, error analysis.
 
 
 ## Publications 
 - See [Google Scholar Profile](https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en), or
 - See [ResearchGate Profile](https://www.researchgate.net/profile/Quanling-Deng)
 
-## Most recent work 
-- [LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework](https://arxiv.org/abs/2401.18048)
+## Recent work 
+- [Particle, kinetic and hydrodynamic models for sea ice floes. Part I: non-rotating floes]([https://arxiv.org/pdf/2504.21809])
+- [LEMDA: A Lagrangian-Eulerian Multiscale Data Assimilation Framework]([https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004259])
 - [Exploring the cloud of feature interaction scores in a Rashomon set](https://arxiv.org/abs/2305.10181), ICLR 2024
 - [Particle-Continuum Multiscale Modeling of Sea Ice Floes](https://epubs.siam.org/eprint/NXPIP7Z6PJXBYE3APWKM/full), SIAM MMS
 - Fault-tolerant Parallel Multigrid Method on Unstructured Adaptive Mesh, SIAM Journal on Scientific Computing
