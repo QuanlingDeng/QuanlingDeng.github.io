@@ -20,6 +20,13 @@ Beijing, China
 Office: Shuangqing Complex Bldg. B523      
 Email:  qlLastname@tsinghua.edu.cn (replace Lastname by my last name)
 
+Honorary Lecturer
+[School of Computing](https://comp.anu.edu.au/people/quanling-deng/)
+[Australian National University](https://www.anu.edu.au/)
+Canberra, ACT, Australia
+Email: Firstname.Lastname@anu.edu.au
+
+
 
 ## A brief bio
 Born in Chenzhou, Hunan, Dr. Quanling Deng is an Assistant Professor at YMSC. Before joining YMSC, he worked at ANU as a Lecturer (2022-2025), at the University of Wisconsin-Madison as Van Vleck Visiting Assistant Professor (2020-2022), and at Curtin University as a Research Associate (2016-2020). He got his PhD in Mathematics at the University of Wyoming in 2016. He has a broad interest in Artificial Intelligence, Computational and Applied Mathematics.
