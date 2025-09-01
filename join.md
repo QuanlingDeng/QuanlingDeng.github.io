@@ -3,6 +3,9 @@ title: Join
 layout: default
 ---
 
+I am seeking highly motivated students at all levels (undergraduate, Master’s, PhD, and postdoc). If you are interested, please email me to express your interest. In your email, include a CV and outline the research line(s) you would like to pursue.
+
+<!--
 We are looking for highly motivated students (undergraduate, PhB, Honours, Masters, and PhD), who will work on research projects to develop the next generation of models and methods in the field of Computational and Applied Mathematics, broadly in Computational Science within the ANU School of Computing.
 There are a large number of potential directions and some of them are: the development and application of advanced finite and isogeometric element analysis, machine learning-based model solvers and simulators, modelling and superparameterization of sea-ice-ocean-atmosphere dynamics, and wave dispersion/dissipation analysis. 
 
@@ -95,4 +98,6 @@ Please follow the following guidelines and email me to express your interest.
 ### School of Computing Pioneering Women
 
 - [Pioneering Women Researchers (Both Domestic and International)](https://comp.anu.edu.au/join/pwp/)
+
+--!>
 
