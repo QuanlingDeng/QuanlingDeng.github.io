@@ -13,18 +13,18 @@ redirect_from:
 <img align="right" width="300" height="200" src="images/deng.jpg">
 
 Quanling Deng  
-Tenure Track Assistant Professor
-[Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn/)
-[Tsinghua University](https://www.tsinghua.edu.cn/) 
-Beijing, China 
-Office: Shuangqing Complex Bldg. B523      
-Email:  qlLastname@tsinghua.edu.cn (replace Lastname by my last name)
+Tenure Track Assistant Professor    
+[Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn/)     
+[Tsinghua University](https://www.tsinghua.edu.cn/)        
+Beijing, China      
+Office: Shuangqing Complex Bldg. B523           
+Email:  qlLastname@tsinghua.edu.cn (replace Lastname by my last name)      
 
-Honorary Lecturer
-[School of Computing](https://comp.anu.edu.au/people/quanling-deng/)
-[Australian National University](https://www.anu.edu.au/)
-Canberra, ACT, Australia
-Email: Firstname.Lastname@anu.edu.au
+Honorary Lecturer   
+[School of Computing](https://comp.anu.edu.au/people/quanling-deng/)       
+[Australian National University](https://www.anu.edu.au/)     
+Canberra, ACT, Australia     
+Email: Firstname.Lastname@anu.edu.au   
 
 
 
