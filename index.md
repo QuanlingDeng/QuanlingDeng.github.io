@@ -18,7 +18,7 @@ Tenure Track Assistant Professor
 [Tsinghua University](https://www.tsinghua.edu.cn/)        
 Beijing, China      
 Office: Shuangqing Complex Bldg. B523           
-Email:  qlLastname@tsinghua.edu.cn (replace Lastname by my last name)      
+Email:  qlLastname@tsinghua.edu.cn  
 
 Honorary Lecturer   
 [School of Computing](https://comp.anu.edu.au/people/quanling-deng/)       
