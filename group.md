@@ -3,6 +3,8 @@ title: Group
 layout: default
 ---
 
+I am seeking highly motivated students at all levels (undergraduate, Master’s, PhD, and postdoctoral) to join my group at YMSC. If you are interested, please email me to express your interest.
+
 ## Current students
 
 - **Ruibiao Zhu**, Ph.D. Student (ANU SoCo), Graph neural networks, sea ice floes, multiscale (Primary supervisor)
