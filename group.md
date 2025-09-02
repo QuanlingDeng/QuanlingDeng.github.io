@@ -13,9 +13,7 @@ layout: default
 
 - **Frederick Fung**, Ph.D. Student (Mathematical Sciences Institute), Multigrid adaptive FEM method, fault recovery in a parallel environment (associate supervisor)
 
-- **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (associate supervisor)
-
-<!-- **Riik Basu**, Ph.D. Student (SoCo), Numerical simulation (seismic wave propagation), HPC, (associate supervisor) --!>
+- **Sichao Li**, Ph.D. Student (SoCo), Machine learning, feature interaction, material intelligence (associate supervisor) <!-- **Riik Basu**, Ph.D. Student (SoCo), Numerical simulation (seismic wave propagation), HPC, (associate supervisor) -->
 
 - **Jipei Chen**, Master Student (SoCo), softFEM, Neural networks, DeepSoftFEM
 
