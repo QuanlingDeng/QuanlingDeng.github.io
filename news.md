@@ -3,7 +3,9 @@ title: News
 layout: default
 ---
 
-## Some Recent and Forthcoming Activities
+## Some Recent/Forthcoming Activities and News
+
+* SIAM News reported our work on [particle-continuum multiscale modeling of sea ice floe dynamics](https://www.siam.org/publications/siam-news/articles/a-particle-continuum-framework-for-sea-ice-floe-dynamics/), July 7, 2025.
 
 * Invited talk at the [International Conference on Applied Mathematics 2024 (ICAM 2024)](https://www.cityu.edu.hk/rcms/icam2024/index.html), City University of Hong Kong, 28 May - 1 June 2024.
 
@@ -39,6 +41,6 @@ layout: default
 
 * Co-organized a minisymposium at the [ICCS 2022](https://www.iccs-meeting.org/iccs2022/), held in London, United Kingdom, June 21 - 23, 2022, ````in a hybrid (physical and virtual) format````. The topic was [Artificial Intelligence and High-Performance Computing for Advanced Simulations](https://home.agh.edu.pl/~iacs/).
 
-* Joined ANU School of Computing in February 2022.
+* Joined the ANU School of Computing in February 2022.
 
 * Our paper "SoftFEM: revisiting the spectral finite element approximation of second-order elliptic operators" (with [A. Ern](http://cermics.enpc.fr/~ern/home.html)) was published in Computers & Mathematics with Applications in 2021
