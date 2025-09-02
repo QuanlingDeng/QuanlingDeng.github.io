@@ -11,8 +11,7 @@ layout: default
 
 
 ## Publications 
-- See [Google Scholar Profile](https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en), or
-- See [ResearchGate Profile](https://www.researchgate.net/profile/Quanling-Deng)
+- See [Google Scholar Profile](https://scholar.google.com/citations?user=PBGaQ44AAAAJ&hl=en)
 
 ## Recent work 
 - [Particle, kinetic and hydrodynamic models for sea ice floes. Part I: non-rotating floes](https://arxiv.org/pdf/2504.21809)
