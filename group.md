@@ -5,9 +5,9 @@ layout: default
 
 ## Current students
 
-- **Ruibiao Zhu**, Ph.D. Student (SoCo), Graph neural networks, sea ice floes, multiscale (Primary supervisor)
+- **Ruibiao Zhu**, Ph.D. Student (ANU SoCo), Graph neural networks, sea ice floes, multiscale (Primary supervisor)
 
-- **Danyang Li**, Ph.D. Student (SoCo), Numerical modelling, data assimilation, neural networks (CNN, U-Net, diffusion models), sea ice (Primary supervisor)
+- **Danyang Li**, Ph.D. Student (ANU SoCo), Numerical modelling, data assimilation, neural networks (CNN, U-Net, diffusion models), sea ice (Primary supervisor)
 
 ## Former students
 
