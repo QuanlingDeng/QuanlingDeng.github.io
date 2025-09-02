@@ -17,7 +17,7 @@ layout: default
 
 - **Jipei Chen**, Master Student (SoCo), softFEM, Neural networks, DeepSoftFEM
 
-- **Hyeonggeun Yun**, Undergraduate (Adv. Comp.) Student, machine learning, sea ice floes, data assimilation, quasi-geostrophic model (physical domain)
+- **Hyeonggeun Yun**, Undergraduate (Adv. Comp.) Student, machine learning, sea ice floes, data assimilation, quasi-geostrophic model
 
 - **Kecheng Zhang**, Undergraduate (B. Comp.) Student, Floe-Assimilated Neural Network Ocean Recovery
 
