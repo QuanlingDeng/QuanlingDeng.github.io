@@ -4,8 +4,7 @@ layout: default
 ---
 
 ## Tsinghua University:
-- TBA
-
+- [Introduction to Data Assimilation](https://ymsc.tsinghua.edu.cn/info/1047/4507.htm), Fall 2025
 
 ## ANU:
 - COMP2400/6240, Relational Databases, Australian National University, co-convener, Semester 2 2024
