@@ -28,14 +28,14 @@ Canberra, ACT, Australia
 Email: Firstname.Lastname@anu.edu.au   
 
 <p style="color: purple;">
-I am currently looking for <strong>postdoctoral researchers</strong> to join my research group at the 
+I am currently looking for postdoctoral researchers to join my research group at the 
 <a href="https://ymsc.tsinghua.edu.cn/">Yau Mathematical Sciences Center (YMSC)</a>, 
 <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, Beijing, China. 
-The research focuses on <strong>data assimilation combined with AI/ML</strong>, with possible directions also involving 
-<strong>quantum computing and modeling</strong>, applied to <strong>sea-ice and climate system modeling</strong>. 
-The position offers a <strong>competitive salary starting from 350,000+ RMB per year</strong>. 
+The research focuses on data assimilation combined with AI/ML, with possible directions also involving 
+quantum computing and modeling, applied to <strong>sea-ice and climate system modeling</strong>. 
+The position offers a competitive salary starting from 350,000+ RMB per year. 
 Interested candidates should apply through 
-<a href="https://www.mathjobs.org/jobs/list/26588">MathJobs</a> and please <strong>indicate me as your supervisor</strong> in your application.
+<a href="https://www.mathjobs.org/jobs/list/26588">MathJobs</a> and please indicate me as your supervisor in your application.
 </p>
 
 ## A brief bio
