@@ -3,7 +3,22 @@ title: Group
 layout: default
 ---
 
-I am seeking highly motivated students at all levels (undergraduate, Master’s, PhD, and postdoctoral) to join my group at YMSC. If you are interested, drop me an email to express your interest.
+<p style="color: purple;">
+I am currently looking for postdoctoral researchers to join my research group at the 
+<a href="https://ymsc.tsinghua.edu.cn/">Yau Mathematical Sciences Center (YMSC)</a>, 
+<a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, Beijing, China. 
+The research focuses on data assimilation combined with AI/ML, with possible directions also involving 
+quantum computing and modeling, applied to sea-ice and climate system modeling. 
+The position offers a competitive salary starting from 350,000+ RMB per year. 
+Interested candidates should apply through 
+<a href="https://www.mathjobs.org/jobs/list/26588">MathJobs</a> and please indicate me as your supervisor in your application. 
+For students interested in Master's or PhD study, please first take the entrance examination for admission to 
+<a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> / Qiuzhen College. 
+If you are already at Tsinghua University and are interested in joining the group, please feel free to email me. 
+If you have any questions, please also feel free to contact me by email.
+</p>
+
+<---I am seeking highly motivated students at all levels (undergraduate, Master’s, PhD, and postdoctoral) to join my group at YMSC. If you are interested, drop me an email to express your interest. --->
 
 ## Current students
 
