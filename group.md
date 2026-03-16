@@ -18,7 +18,7 @@ If you are already at Tsinghua University and are interested in joining the grou
 If you have any questions, please also feel free to contact me by email.
 </p>
 
-<---I am seeking highly motivated students at all levels (undergraduate, Master’s, PhD, and postdoctoral) to join my group at YMSC. If you are interested, drop me an email to express your interest. --->
+<!--I am seeking highly motivated students at all levels (undergraduate, Master’s, PhD, and postdoctoral) to join my group at YMSC. If you are interested, drop me an email to express your interest. -->
 
 ## Current students
 
