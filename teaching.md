@@ -4,6 +4,7 @@ layout: default
 ---
 
 ## Tsinghua University:
+- Introduction to Data Assimilation, Spring 2026
 - [Introduction to Data Assimilation](https://ymsc.tsinghua.edu.cn/info/1047/4507.htm), Fall 2025
 
 ## ANU:
