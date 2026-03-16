@@ -5,6 +5,10 @@ layout: default
 
 ## Some Recent/Forthcoming Activities and News
 
+* Host the visit of Prof. Seung-Yeal Ha and two of his group members, Xinyu Wang and Jaemoon Lee, at YMSC, March 22-29, 2026. See their talk info [here](https://ymsc.tsinghua.edu.cn/).
+
+* Visited [Prof. Seung-Yeal Ha and his group](https://hyke.snu.ac.kr/) at Seoul National University; gave a talk [(see here)](https://hyke.snu.ac.kr/?cat=4); submitted a paper [(see arXiv preprint here)](https://arxiv.org/abs/2602.21972), January 11-16, 2026.
+
 * SIAM News reported our work on [particle-continuum multiscale modeling of sea ice floe dynamics](https://www.siam.org/publications/siam-news/articles/a-particle-continuum-framework-for-sea-ice-floe-dynamics/), July 7, 2025.
 
 * Invited talk at the [International Conference on Applied Mathematics 2024 (ICAM 2024)](https://www.cityu.edu.hk/rcms/icam2024/index.html), City University of Hong Kong, 28 May - 1 June 2024.
