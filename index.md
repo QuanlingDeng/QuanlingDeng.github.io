@@ -32,7 +32,7 @@ I am currently looking for postdoctoral researchers to join my research group at
 <a href="https://ymsc.tsinghua.edu.cn/">Yau Mathematical Sciences Center (YMSC)</a>, 
 <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, Beijing, China. 
 The research focuses on data assimilation combined with AI/ML, with possible directions also involving 
-quantum computing and modeling, applied to <strong>sea-ice and climate system modeling</strong>. 
+quantum computing and modeling, applied to sea-ice and climate system modeling. 
 The position offers a competitive salary starting from 350,000+ RMB per year. 
 Interested candidates should apply through 
 <a href="https://www.mathjobs.org/jobs/list/26588">MathJobs</a> and please indicate me as your supervisor in your application.
