@@ -21,7 +21,8 @@ Office: Shuangqing Complex Bldg. B523
 Email:  qlLastname@tsinghua.edu.cn  
 
 Honorary Lecturer   
-[School of Computing](https://comp.anu.edu.au/people/quanling-deng/)       
+[School of Computing](https://comp.anu.edu.au/people/quanling-deng/)  
+[ANU Institute for Climate, Energy & Disaster Solutions](https://iceds.anu.edu.au/people/academic-members/quanling-deng#acton-tabs-link--tabs-person_tabs-middle-1)
 [Australian National University](https://www.anu.edu.au/)     
 Canberra, ACT, Australia     
 Email: Firstname.Lastname@anu.edu.au   
