@@ -26,7 +26,16 @@ Honorary Lecturer
 Canberra, ACT, Australia     
 Email: Firstname.Lastname@anu.edu.au   
 
-
+<p style="color: purple;">
+I am currently looking for <strong>postdoctoral researchers</strong> to join my research group at the 
+<a href="https://ymsc.tsinghua.edu.cn/">Yau Mathematical Sciences Center (YMSC)</a>, 
+<a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, Beijing. 
+The research focuses on <strong>data assimilation combined with AI/ML</strong>, with possible directions also involving 
+<strong>quantum computing and modeling</strong>, applied to <strong>sea-ice and climate system modeling</strong>. 
+The position offers a <strong>competitive salary starting from 350,000+ RMB per year</strong>. 
+Interested candidates should apply through 
+<a href="https://www.mathjobs.org/jobs/list/26588">MathJobs</a> and please <strong>indicate me as your preferred supervisor</strong> in your application.
+</p>
 
 ## A brief bio
 Born in Hunan, Dr. Quanling Deng currently holds a tenure-track Assistant Professor position at YMSC and an honorary Lecturer position at ANU. Before joining YMSC, he worked at ANU as a Lecturer (2022-2025), at the University of Wisconsin-Madison as a Van Vleck Visiting Assistant Professor (2020-2022), and at Curtin University as a Research Associate (2016-2020). He got his PhD in Mathematics at the University of Wyoming in 2016. He has a broad interest in Artificial Intelligence, Computational and Applied Mathematics.
