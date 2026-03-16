@@ -34,7 +34,7 @@ The research focuses on <strong>data assimilation combined with AI/ML</strong>, 
 <strong>quantum computing and modeling</strong>, applied to <strong>sea-ice and climate system modeling</strong>. 
 The position offers a <strong>competitive salary starting from 350,000+ RMB per year</strong>. 
 Interested candidates should apply through 
-<a href="https://www.mathjobs.org/jobs/list/26588">MathJobs</a> and please <strong>indicate me as your preferred supervisor</strong> in your application.
+<a href="https://www.mathjobs.org/jobs/list/26588">MathJobs</a> and please <strong>indicate me as your supervisor</strong> in your application.
 </p>
 
 ## A brief bio
