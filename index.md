@@ -12,7 +12,7 @@ redirect_from:
 
 <img align="right" width="300" height="200" src="images/deng.jpg">
 
-Quanling Deng  
+[Quanling Deng](https://ymsc.tsinghua.edu.cn/en/info/1033/3472.htm)  
 Assistant Professor    
 [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn/)     
 [Tsinghua University](https://www.tsinghua.edu.cn/)        
