@@ -29,7 +29,7 @@ Email: Firstname.Lastname@anu.edu.au
 <p style="color: purple;">
 I am currently looking for <strong>postdoctoral researchers</strong> to join my research group at the 
 <a href="https://ymsc.tsinghua.edu.cn/">Yau Mathematical Sciences Center (YMSC)</a>, 
-<a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, Beijing. 
+<a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, Beijing, China. 
 The research focuses on <strong>data assimilation combined with AI/ML</strong>, with possible directions also involving 
 <strong>quantum computing and modeling</strong>, applied to <strong>sea-ice and climate system modeling</strong>. 
 The position offers a <strong>competitive salary starting from 350,000+ RMB per year</strong>. 
